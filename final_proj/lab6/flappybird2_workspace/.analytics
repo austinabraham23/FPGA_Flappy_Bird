@@ -1,0 +1,8 @@
+timestamp=[2024-11-29 15:56:29], mode=WORKBENCH_START, duration=0:00:04.506, duration_ms=4506, data={}
+timestamp=[2024-11-29 15:56:29], mode=WORKBENCH_UI_INIT, duration=0:00:00.326, duration_ms=326, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2024-11-29 15:56:30], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.073, duration_ms=73, data={}
+timestamp=[2024-11-29 15:56:56], mode=APP_CREATION, duration=0:00:03.643, duration_ms=3643, data={name=flap, project_type=sdk, os=standalone, processor=microblaze, runtime=cpp, platform=flappy_bird, application_type=application}
+timestamp=[2024-11-29 15:58:03], mode=PLATFORM_GENERATION, duration=0:00:02.630, duration_ms=2630, data={name=flappy_bird}
+timestamp=[2024-11-29 15:58:08], mode=PLATFORM_GENERATION, duration=0:00:04.913, duration_ms=4913, data={name=flappy_bird}
+timestamp=[2024-11-29 15:58:10], mode=BUILD, duration=0:00:02.074, duration_ms=2074, data={name=flap, configuration=Debug, clean_build=false}
+timestamp=[2024-11-29 15:58:10], mode=BUILD, duration=0:00:00.127, duration_ms=127, data={name=flap_system, configuration=Debug, clean_build=false}

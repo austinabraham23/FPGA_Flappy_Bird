@@ -1,0 +1,6 @@
+18:25:28 **** Build of configuration Debug for project flappy_bird_system ****
+make all 
+Skipping SD card image generation. Reason: "The system project only has applications for microblaze processors."
+
+18:25:28 Build Finished (took 105ms)
+

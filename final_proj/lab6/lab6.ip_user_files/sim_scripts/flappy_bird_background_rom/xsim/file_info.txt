@@ -1,0 +1,2 @@
+flappy_bird_background_rom.v,verilog,xil_defaultlib,../../../../lab6.gen/sources_1/ip/flappy_bird_background_rom/sim/flappy_bird_background_rom.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

@@ -1,0 +1,1454 @@
+TRACE::2024-10-17.16:59:39::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:39::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:39::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:39::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.16:59:39::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:39::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.16:59:39::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-10-17.16:59:39::SCWPlatform::Opened new HwDB with name mb_intro_top_0
+TRACE::2024-10-17.16:59:39::SCWWriter::formatted JSON is {
+	"platformName":	"mb_intro_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_intro_top",
+	"platHandOff":	"C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/mb_intro_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_intro_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2024-10-17.16:59:39::SCWWriter::formatted JSON is {
+	"platformName":	"mb_intro_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_intro_top",
+	"platHandOff":	"C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/mb_intro_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_intro_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_intro_top",
+	"systems":	[{
+			"systemName":	"mb_intro_top",
+			"systemDesc":	"mb_intro_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_intro_top"
+		}]
+}
+TRACE::2024-10-17.16:59:39::SCWPlatform::Boot application domains not present, creating them
+TRACE::2024-10-17.16:59:39::SCWPlatform::Pure FPGA device, no boot application will be created.
+TRACE::2024-10-17.16:59:39::SCWWriter::formatted JSON is {
+	"platformName":	"mb_intro_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_intro_top",
+	"platHandOff":	"C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/mb_intro_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_intro_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_intro_top",
+	"systems":	[{
+			"systemName":	"mb_intro_top",
+			"systemDesc":	"mb_intro_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_intro_top"
+		}]
+}
+TRACE::2024-10-17.16:59:39::SCWWriter::formatted JSON is {
+	"platformName":	"mb_intro_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_intro_top",
+	"platHandOff":	"C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/mb_intro_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_intro_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_intro_top",
+	"systems":	[{
+			"systemName":	"mb_intro_top",
+			"systemDesc":	"mb_intro_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_intro_top"
+		}]
+}
+TRACE::2024-10-17.16:59:39::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:39::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:39::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:39::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.16:59:39::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:39::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.16:59:39::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.16:59:39::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.16:59:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.16:59:39::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:39::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:39::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:39::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.16:59:39::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:39::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.16:59:39::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.16:59:39::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.16:59:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.16:59:39::SCWDomain::checking for install qemu data   : 
+TRACE::2024-10-17.16:59:39::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:39::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:39::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:39::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.16:59:39::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:39::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.16:59:39::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.16:59:39::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.16:59:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.16:59:39::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:39::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:39::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:39::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.16:59:39::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:39::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.16:59:39::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.16:59:39::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.16:59:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.16:59:39::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:39::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:39::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:39::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.16:59:39::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:39::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.16:59:39::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.16:59:39::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.16:59:39::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.16:59:39::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:39::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-10-17.16:59:39::SCWMssOS::No sw design opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:39::SCWMssOS::mss does not exists at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:39::SCWMssOS::Creating sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:39::SCWMssOS::Adding the swdes entry, created swdb C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:39::SCWMssOS::updating the scw layer changes to swdes at   C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:39::SCWMssOS::Writing mss at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:39::SCWMssOS::Completed writing the mss file at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-10-17.16:59:39::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2024-10-17.16:59:39::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2024-10-17.16:59:39::SCWMssOS::Completed writing the mss file at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-10-17.16:59:39::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2024-10-17.16:59:41::SCWMssOS::Saving the mss changes C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2024-10-17.16:59:41::SCWMssOS::Writing the mss file completed C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::Commit changes completed.
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.16:59:41::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.16:59:41::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.16:59:41::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.16:59:41::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.16:59:41::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.16:59:41::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWWriter::formatted JSON is {
+	"platformName":	"mb_intro_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_intro_top",
+	"platHandOff":	"C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/mb_intro_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_intro_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_intro_top",
+	"systems":	[{
+			"systemName":	"mb_intro_top",
+			"systemDesc":	"mb_intro_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_intro_top",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"d71f0390b049c5e98d3f47dfaddd10a6",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2024-10-17.16:59:41::SCWPlatform::Started generating the artifacts platform mb_intro_top
+TRACE::2024-10-17.16:59:41::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-10-17.16:59:41::SCWPlatform::Started generating the artifacts for system configuration mb_intro_top
+LOG::2024-10-17.16:59:41::SCWSystem::Checking the domain standalone_microblaze_0
+LOG::2024-10-17.16:59:41::SCWSystem::Not a boot domain 
+LOG::2024-10-17.16:59:41::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2024-10-17.16:59:41::SCWDomain::Generating domain artifcats
+TRACE::2024-10-17.16:59:41::SCWMssOS::Generating standalone artifcats
+TRACE::2024-10-17.16:59:41::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.16:59:41::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.16:59:41::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::Completed writing the mss file at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-10-17.16:59:41::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-10-17.16:59:41::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-10-17.16:59:41::SCWDomain::Skipping the build for domain :  standalone_microblaze_0
+TRACE::2024-10-17.16:59:41::SCWMssOS::skipping the bsp build ... 
+TRACE::2024-10-17.16:59:41::SCWMssOS::Copying to export directory.
+TRACE::2024-10-17.16:59:41::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-10-17.16:59:41::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-10-17.16:59:41::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2024-10-17.16:59:41::SCWSystem::Completed Processing the sysconfig mb_intro_top
+LOG::2024-10-17.16:59:41::SCWPlatform::Completed generating the artifacts for system configuration mb_intro_top
+TRACE::2024-10-17.16:59:41::SCWPlatform::Started preparing the platform 
+TRACE::2024-10-17.16:59:41::SCWSystem::Writing the bif file for system config mb_intro_top
+TRACE::2024-10-17.16:59:41::SCWSystem::dir created 
+TRACE::2024-10-17.16:59:41::SCWSystem::Writing the bif 
+TRACE::2024-10-17.16:59:41::SCWPlatform::Started writing the spfm file 
+TRACE::2024-10-17.16:59:41::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-10-17.16:59:41::SCWPlatform::Completed generating the platform
+TRACE::2024-10-17.16:59:41::SCWMssOS::Saving the mss changes C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-10-17.16:59:41::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-10-17.16:59:41::SCWMssOS::Commit changes completed.
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.16:59:41::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.16:59:41::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.16:59:41::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.16:59:41::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.16:59:41::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.16:59:41::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWWriter::formatted JSON is {
+	"platformName":	"mb_intro_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_intro_top",
+	"platHandOff":	"C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/mb_intro_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_intro_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_intro_top",
+	"systems":	[{
+			"systemName":	"mb_intro_top",
+			"systemDesc":	"mb_intro_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_intro_top",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"d71f0390b049c5e98d3f47dfaddd10a6",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-10-17.16:59:41::SCWPlatform::updated the xpfm file.
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.16:59:41::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.16:59:41::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::Saving the mss changes C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-10-17.16:59:41::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-10-17.16:59:41::SCWMssOS::Commit changes completed.
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.16:59:41::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.16:59:41::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.16:59:41::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.16:59:41::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.16:59:41::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.16:59:41::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWWriter::formatted JSON is {
+	"platformName":	"mb_intro_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_intro_top",
+	"platHandOff":	"C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/mb_intro_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_intro_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_intro_top",
+	"systems":	[{
+			"systemName":	"mb_intro_top",
+			"systemDesc":	"mb_intro_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_intro_top",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"d71f0390b049c5e98d3f47dfaddd10a6",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.16:59:41::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.16:59:41::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.16:59:41::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.16:59:41::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::Saving the mss changes C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-10-17.16:59:41::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-10-17.16:59:41::SCWMssOS::Commit changes completed.
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.16:59:41::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.16:59:41::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.16:59:41::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.16:59:41::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.16:59:41::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.16:59:41::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWWriter::formatted JSON is {
+	"platformName":	"mb_intro_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_intro_top",
+	"platHandOff":	"C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/mb_intro_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_intro_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_intro_top",
+	"systems":	[{
+			"systemName":	"mb_intro_top",
+			"systemDesc":	"mb_intro_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_intro_top",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"d71f0390b049c5e98d3f47dfaddd10a6",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2024-10-17.16:59:41::SCWPlatform::Started generating the artifacts platform mb_intro_top
+TRACE::2024-10-17.16:59:41::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-10-17.16:59:41::SCWPlatform::Started generating the artifacts for system configuration mb_intro_top
+LOG::2024-10-17.16:59:41::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2024-10-17.16:59:41::SCWDomain::Generating domain artifcats
+TRACE::2024-10-17.16:59:41::SCWMssOS::Generating standalone artifcats
+TRACE::2024-10-17.16:59:41::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.16:59:41::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.16:59:41::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::Completed writing the mss file at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-10-17.16:59:41::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-10-17.16:59:41::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-10-17.16:59:41::SCWDomain::Building the domain as part of full build :  standalone_microblaze_0
+TRACE::2024-10-17.16:59:41::SCWMssOS::skipping the bsp build ... 
+TRACE::2024-10-17.16:59:41::SCWMssOS::Copying to export directory.
+TRACE::2024-10-17.16:59:41::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-10-17.16:59:41::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-10-17.16:59:41::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2024-10-17.16:59:41::SCWSystem::Completed Processing the sysconfig mb_intro_top
+LOG::2024-10-17.16:59:41::SCWPlatform::Completed generating the artifacts for system configuration mb_intro_top
+TRACE::2024-10-17.16:59:41::SCWPlatform::Started preparing the platform 
+TRACE::2024-10-17.16:59:41::SCWSystem::Writing the bif file for system config mb_intro_top
+TRACE::2024-10-17.16:59:41::SCWSystem::dir created 
+TRACE::2024-10-17.16:59:41::SCWSystem::Writing the bif 
+TRACE::2024-10-17.16:59:41::SCWPlatform::Started writing the spfm file 
+TRACE::2024-10-17.16:59:41::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-10-17.16:59:41::SCWPlatform::Completed generating the platform
+TRACE::2024-10-17.16:59:41::SCWMssOS::Saving the mss changes C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-10-17.16:59:41::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-10-17.16:59:41::SCWMssOS::Commit changes completed.
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.16:59:41::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.16:59:41::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.16:59:41::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.16:59:41::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.16:59:41::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.16:59:41::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.16:59:41::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.16:59:41::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.16:59:41::SCWWriter::formatted JSON is {
+	"platformName":	"mb_intro_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_intro_top",
+	"platHandOff":	"C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/mb_intro_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_intro_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_intro_top",
+	"systems":	[{
+			"systemName":	"mb_intro_top",
+			"systemDesc":	"mb_intro_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_intro_top",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"d71f0390b049c5e98d3f47dfaddd10a6",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-10-17.16:59:41::SCWPlatform::updated the xpfm file.
+LOG::2024-10-17.17:22:44::SCWPlatform::Started generating the artifacts platform mb_intro_top
+TRACE::2024-10-17.17:22:44::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-10-17.17:22:44::SCWPlatform::Started generating the artifacts for system configuration mb_intro_top
+LOG::2024-10-17.17:22:44::SCWSystem::Checking the domain standalone_microblaze_0
+LOG::2024-10-17.17:22:44::SCWSystem::Not a boot domain 
+LOG::2024-10-17.17:22:44::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2024-10-17.17:22:44::SCWDomain::Generating domain artifcats
+TRACE::2024-10-17.17:22:44::SCWMssOS::Generating standalone artifcats
+TRACE::2024-10-17.17:22:44::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-10-17.17:22:44::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.17:22:44::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.17:22:44::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.17:22:44::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.17:22:44::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.17:22:44::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.17:22:44::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.17:22:44::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.17:22:44::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.17:22:44::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.17:22:44::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.17:22:44::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.17:22:44::SCWMssOS::Completed writing the mss file at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-10-17.17:22:44::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.17:22:45::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-10-17.17:22:45::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-10-17.17:22:45::SCWDomain::Building the domain as part of full build :  standalone_microblaze_0
+TRACE::2024-10-17.17:22:45::SCWMssOS::doing bsp build ... 
+TRACE::2024-10-17.17:22:45::SCWMssOS::System Command Ran  C: & cd  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp & make 
+TRACE::2024-10-17.17:22:45::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2024-10-17.17:22:45::SCWMssOS::'Finished building libraries sequentially.'
+
+TRACE::2024-10-17.17:22:45::SCWMssOS::make -j 14 --no-print-directory par_libs
+
+TRACE::2024-10-17.17:22:45::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_8/src"
+
+TRACE::2024-10-17.17:22:45::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-10-17.17:22:45::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2024-10-17.17:22:45::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-17.17:22:45::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_16/src"
+
+TRACE::2024-10-17.17:22:45::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-10-17.17:22:45::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2024-10-17.17:22:45::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-17.17:22:45::SCWMssOS::"Running Make include in microblaze_0/libsrc/gpio_v4_9/src"
+
+TRACE::2024-10-17.17:22:45::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-10-17.17:22:45::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2024-10-17.17:22:45::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-17.17:22:45::SCWMssOS::"Running Make include in microblaze_0/libsrc/intc_v3_15/src"
+
+TRACE::2024-10-17.17:22:45::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_15/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-10-17.17:22:45::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_C
+TRACE::2024-10-17.17:22:45::SCWMssOS::OMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-17.17:22:45::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v8_0/src"
+
+TRACE::2024-10-17.17:22:45::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-10-17.17:22:45::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EX
+TRACE::2024-10-17.17:22:45::SCWMssOS::TRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-17.17:22:45::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2024-10-17.17:22:45::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-10-17.17:22:45::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTR
+TRACE::2024-10-17.17:22:45::SCWMssOS::A_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-17.17:22:45::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_8/src"
+
+TRACE::2024-10-17.17:22:45::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-10-17.17:22:45::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPI
+TRACE::2024-10-17.17:22:45::SCWMssOS::LER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-17.17:22:45::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_16/src"
+
+TRACE::2024-10-17.17:22:45::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-10-17.17:22:45::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPI
+TRACE::2024-10-17.17:22:45::SCWMssOS::LER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-17.17:22:45::SCWMssOS::"Running Make libs in microblaze_0/libsrc/gpio_v4_9/src"
+
+TRACE::2024-10-17.17:22:45::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-10-17.17:22:45::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPI
+TRACE::2024-10-17.17:22:45::SCWMssOS::LER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-17.17:22:45::SCWMssOS::"Running Make libs in microblaze_0/libsrc/intc_v3_15/src"
+
+TRACE::2024-10-17.17:22:45::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_15/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_
+TRACE::2024-10-17.17:22:45::SCWMssOS::FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMP
+TRACE::2024-10-17.17:22:45::SCWMssOS::ILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-17.17:22:45::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v8_0/src"
+
+TRACE::2024-10-17.17:22:45::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2024-10-17.17:22:45::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA
+TRACE::2024-10-17.17:22:45::SCWMssOS::_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-17.17:22:45::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2024-10-17.17:22:45::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-10-17.17:22:45::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_C
+TRACE::2024-10-17.17:22:45::SCWMssOS::OMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-17.17:22:46::SCWMssOS::"DEBUG NON_LTO_OBJECTS is ../../../lib/microblaze_interrupt_handler.o"
+
+TRACE::2024-10-17.17:22:47::SCWMssOS::'Finished building libraries parallelly.'
+
+TRACE::2024-10-17.17:22:47::SCWMssOS::make --no-print-directory archive
+
+TRACE::2024-10-17.17:22:47::SCWMssOS::mb-ar -r  microblaze_0/lib/libxil.a microblaze_0/lib/_exit.o microblaze_0/lib/errno.o microblaze_0/lib/fcntl.o microblaze_0/lib
+TRACE::2024-10-17.17:22:47::SCWMssOS::/hw_exception_handler.o microblaze_0/lib/inbyte.o microblaze_0/lib/microblaze_disable_dcache.o microblaze_0/lib/microblaze_disa
+TRACE::2024-10-17.17:22:47::SCWMssOS::ble_exceptions.o microblaze_0/lib/microblaze_disable_icache.o microblaze_0/lib/microblaze_disable_interrupts.o microblaze_0/lib
+TRACE::2024-10-17.17:22:47::SCWMssOS::/microblaze_enable_dcache.o microblaze_0/lib/microblaze_enable_exceptions.o microblaze_0/lib/microblaze_enable_icache.o microbl
+TRACE::2024-10-17.17:22:47::SCWMssOS::aze_0/lib/microblaze_enable_interrupts.o microblaze_0/lib/microblaze_exception_handler.o microblaze_0/lib/microblaze_flush_cach
+TRACE::2024-10-17.17:22:47::SCWMssOS::e_ext.o microblaze_0/lib/microblaze_flush_cache_ext_range.o microblaze_0/lib/microblaze_flush_dcache.o microblaze_0/lib/microbl
+TRACE::2024-10-17.17:22:47::SCWMssOS::aze_flush_dcache_range.o microblaze_0/lib/microblaze_init_dcache_range.o microblaze_0/lib/microblaze_init_icache_range.o microb
+TRACE::2024-10-17.17:22:47::SCWMssOS::laze_0/lib/microblaze_interrupt_handler.o microblaze_0/lib/microblaze_interrupts_g.o microblaze_0/lib/microblaze_invalidate_cac
+TRACE::2024-10-17.17:22:47::SCWMssOS::he_ext.o microblaze_0/lib/microblaze_invalidate_cache_ext_range.o microblaze_0/lib/microblaze_invalidate_dcache.o microblaze_0/
+TRACE::2024-10-17.17:22:47::SCWMssOS::lib/microblaze_invalidate_dcache_range.o microblaze_0/lib/microblaze_invalidate_icache.o microblaze_0/lib/microblaze_invalidate
+TRACE::2024-10-17.17:22:47::SCWMssOS::_icache_range.o microblaze_0/lib/microblaze_scrub.o microblaze_0/lib/microblaze_selftest.o microblaze_0/lib/microblaze_sleep.o 
+TRACE::2024-10-17.17:22:47::SCWMssOS::microblaze_0/lib/microblaze_update_dcache.o microblaze_0/lib/microblaze_update_icache.o microblaze_0/lib/outbyte.o microblaze_0
+TRACE::2024-10-17.17:22:47::SCWMssOS::/lib/print.o microblaze_0/lib/pvr.o microblaze_0/lib/xbram.o microblaze_0/lib/xbram_g.o microblaze_0/lib/xbram_intr.o microblaz
+TRACE::2024-10-17.17:22:47::SCWMssOS::e_0/lib/xbram_selftest.o microblaze_0/lib/xbram_sinit.o microblaze_0/lib/xgpio.o microblaze_0/lib/xgpio_extra.o microblaze_0/li
+TRACE::2024-10-17.17:22:47::SCWMssOS::b/xgpio_g.o microblaze_0/lib/xgpio_intr.o microblaze_0/lib/xgpio_selftest.o microblaze_0/lib/xgpio_sinit.o microblaze_0/lib/xil
+TRACE::2024-10-17.17:22:47::SCWMssOS::_assert.o microblaze_0/lib/xil_cache.o microblaze_0/lib/xil_clocking.o microblaze_0/lib/xil_exception.o microblaze_0/lib/xil_me
+TRACE::2024-10-17.17:22:47::SCWMssOS::m.o microblaze_0/lib/xil_misc_psreset_api.o microblaze_0/lib/xil_printf.o microblaze_0/lib/xil_sleepcommon.o microblaze_0/lib/x
+TRACE::2024-10-17.17:22:47::SCWMssOS::il_testcache.o microblaze_0/lib/xil_testio.o microblaze_0/lib/xil_testmem.o microblaze_0/lib/xil_util.o microblaze_0/lib/xintc.
+TRACE::2024-10-17.17:22:47::SCWMssOS::o microblaze_0/lib/xintc_g.o microblaze_0/lib/xintc_intr.o microblaze_0/lib/xintc_l.o microblaze_0/lib/xintc_options.o microbla
+TRACE::2024-10-17.17:22:47::SCWMssOS::ze_0/lib/xintc_selftest.o microblaze_0/lib/xinterrupt_wrap.o microblaze_0/lib/xio.o microblaze_0/lib/xplatform_info.o microblaz
+TRACE::2024-10-17.17:22:47::SCWMssOS::e_0/lib/xuartlite.o microblaze_0/lib/xuartlite_g.o microblaze_0/lib/xuartlite_intr.o microblaze_0/lib/xuartlite_l.o microblaze_
+TRACE::2024-10-17.17:22:47::SCWMssOS::0/lib/xuartlite_selftest.o microblaze_0/lib/xuartlite_sinit.o microblaze_0/lib/xuartlite_stats.o
+
+TRACE::2024-10-17.17:22:47::SCWMssOS::'Finished building libraries'
+
+TRACE::2024-10-17.17:22:47::SCWMssOS::Copying to export directory.
+TRACE::2024-10-17.17:22:47::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-10-17.17:22:47::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-10-17.17:22:47::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2024-10-17.17:22:47::SCWSystem::Completed Processing the sysconfig mb_intro_top
+LOG::2024-10-17.17:22:47::SCWPlatform::Completed generating the artifacts for system configuration mb_intro_top
+TRACE::2024-10-17.17:22:47::SCWPlatform::Started preparing the platform 
+TRACE::2024-10-17.17:22:47::SCWSystem::Writing the bif file for system config mb_intro_top
+TRACE::2024-10-17.17:22:47::SCWSystem::dir created 
+TRACE::2024-10-17.17:22:47::SCWSystem::Writing the bif 
+TRACE::2024-10-17.17:22:47::SCWPlatform::Started writing the spfm file 
+TRACE::2024-10-17.17:22:47::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-10-17.17:22:47::SCWPlatform::Completed generating the platform
+TRACE::2024-10-17.17:22:47::SCWMssOS::Saving the mss changes C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.17:22:47::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-10-17.17:22:47::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-10-17.17:22:47::SCWMssOS::Commit changes completed.
+TRACE::2024-10-17.17:22:47::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.17:22:47::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.17:22:47::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.17:22:47::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.17:22:47::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.17:22:47::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.17:22:47::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.17:22:47::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.17:22:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.17:22:47::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.17:22:47::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.17:22:47::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.17:22:47::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.17:22:47::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.17:22:47::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.17:22:47::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.17:22:47::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.17:22:47::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.17:22:47::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.17:22:47::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.17:22:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.17:22:47::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.17:22:47::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.17:22:47::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.17:22:47::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.17:22:47::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.17:22:47::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.17:22:47::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.17:22:47::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.17:22:47::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.17:22:47::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.17:22:47::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.17:22:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.17:22:47::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.17:22:47::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.17:22:47::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.17:22:47::SCWWriter::formatted JSON is {
+	"platformName":	"mb_intro_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_intro_top",
+	"platHandOff":	"C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/mb_intro_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_intro_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_intro_top",
+	"systems":	[{
+			"systemName":	"mb_intro_top",
+			"systemDesc":	"mb_intro_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_intro_top",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"d71f0390b049c5e98d3f47dfaddd10a6",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-10-17.17:22:47::SCWPlatform::updated the xpfm file.
+TRACE::2024-10-17.17:22:47::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.17:22:47::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.17:22:47::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.17:22:47::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.17:22:47::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.17:22:47::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.17:22:47::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_0
+TRACE::2024-10-17.17:22:47::SCWPlatform::Opened existing hwdb mb_intro_top_0
+TRACE::2024-10-17.17:22:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.17:22:47::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.17:22:47::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.17:22:47::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.19:00:19::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:19::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:19::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:19::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.19:00:19::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.19:00:19::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-10-17.19:00:19::SCWPlatform::Opened new HwDB with name mb_intro_top_1
+TRACE::2024-10-17.19:00:19::SCWReader::Active system found as  mb_intro_top
+TRACE::2024-10-17.19:00:19::SCWReader::Handling sysconfig mb_intro_top
+TRACE::2024-10-17.19:00:19::SCWDomain::checking for install qemu data   : 
+TRACE::2024-10-17.19:00:19::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:19::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:19::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:19::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.19:00:19::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.19:00:19::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_1
+TRACE::2024-10-17.19:00:19::SCWPlatform::Opened existing hwdb mb_intro_top_1
+TRACE::2024-10-17.19:00:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.19:00:19::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:19::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:19::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:19::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.19:00:19::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.19:00:19::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_1
+TRACE::2024-10-17.19:00:19::SCWPlatform::Opened existing hwdb mb_intro_top_1
+TRACE::2024-10-17.19:00:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.19:00:19::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:19::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:19::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:19::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.19:00:19::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.19:00:19::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_1
+TRACE::2024-10-17.19:00:19::SCWPlatform::Opened existing hwdb mb_intro_top_1
+TRACE::2024-10-17.19:00:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.19:00:19::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:19::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:19::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:19::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.19:00:19::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.19:00:19::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_1
+TRACE::2024-10-17.19:00:19::SCWPlatform::Opened existing hwdb mb_intro_top_1
+TRACE::2024-10-17.19:00:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.19:00:19::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.19:00:19::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-10-17.19:00:19::SCWMssOS::No sw design opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.19:00:19::SCWMssOS::mss exists loading the mss file  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.19:00:19::SCWMssOS::Opened the sw design from mss  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.19:00:19::SCWMssOS::Adding the swdes entry C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2024-10-17.19:00:19::SCWMssOS::updating the scw layer about changes
+TRACE::2024-10-17.19:00:19::SCWMssOS::Opened the sw design.  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.19:00:19::SCWMssOS::Saving the mss changes C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.19:00:19::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-10-17.19:00:19::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-10-17.19:00:19::SCWMssOS::Commit changes completed.
+TRACE::2024-10-17.19:00:19::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2024-10-17.19:00:19::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2024-10-17.19:00:19::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:19::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:19::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:19::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.19:00:19::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.19:00:19::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_1
+TRACE::2024-10-17.19:00:19::SCWPlatform::Opened existing hwdb mb_intro_top_1
+TRACE::2024-10-17.19:00:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.19:00:19::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.19:00:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.19:00:19::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.19:00:19::SCWReader::No isolation master present  
+TRACE::2024-10-17.19:00:19::SCWMssOS::cleaning the bsp 
+TRACE::2024-10-17.19:00:19::SCWMssOS::System Command Ran  C: & cd  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp & make clean 
+TRACE::2024-10-17.19:00:19::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s clean 
+
+TRACE::2024-10-17.19:00:19::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s clean 
+
+TRACE::2024-10-17.19:00:19::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s clean 
+
+TRACE::2024-10-17.19:00:19::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_15/src -s clean 
+
+TRACE::2024-10-17.19:00:19::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s clean 
+
+TRACE::2024-10-17.19:00:20::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s clean 
+
+TRACE::2024-10-17.19:00:20::SCWMssOS::rm -f microblaze_0/lib/libxil.a
+
+LOG::2024-10-17.19:00:25::SCWPlatform::Started generating the artifacts platform mb_intro_top
+TRACE::2024-10-17.19:00:25::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-10-17.19:00:25::SCWPlatform::Started generating the artifacts for system configuration mb_intro_top
+LOG::2024-10-17.19:00:25::SCWSystem::Checking the domain standalone_microblaze_0
+LOG::2024-10-17.19:00:25::SCWSystem::Not a boot domain 
+LOG::2024-10-17.19:00:25::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2024-10-17.19:00:25::SCWDomain::Generating domain artifcats
+TRACE::2024-10-17.19:00:25::SCWMssOS::Generating standalone artifcats
+TRACE::2024-10-17.19:00:25::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-10-17.19:00:25::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:25::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:25::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:25::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.19:00:25::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:25::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.19:00:25::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_1
+TRACE::2024-10-17.19:00:25::SCWPlatform::Opened existing hwdb mb_intro_top_1
+TRACE::2024-10-17.19:00:25::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.19:00:25::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.19:00:25::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.19:00:25::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.19:00:25::SCWMssOS::Completed writing the mss file at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-10-17.19:00:25::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.19:00:25::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-10-17.19:00:25::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-10-17.19:00:25::SCWDomain::Building the domain as part of full build :  standalone_microblaze_0
+TRACE::2024-10-17.19:00:25::SCWMssOS::doing bsp build ... 
+TRACE::2024-10-17.19:00:25::SCWMssOS::System Command Ran  C: & cd  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp & make 
+TRACE::2024-10-17.19:00:25::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2024-10-17.19:00:25::SCWMssOS::'Finished building libraries sequentially.'
+
+TRACE::2024-10-17.19:00:25::SCWMssOS::make -j 14 --no-print-directory par_libs
+
+TRACE::2024-10-17.19:00:25::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_8/src"
+
+TRACE::2024-10-17.19:00:25::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-10-17.19:00:25::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2024-10-17.19:00:25::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-17.19:00:25::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_16/src"
+
+TRACE::2024-10-17.19:00:26::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-10-17.19:00:26::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2024-10-17.19:00:26::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-17.19:00:26::SCWMssOS::"Running Make include in microblaze_0/libsrc/gpio_v4_9/src"
+
+TRACE::2024-10-17.19:00:26::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-10-17.19:00:26::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2024-10-17.19:00:26::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-17.19:00:26::SCWMssOS::"Running Make include in microblaze_0/libsrc/intc_v3_15/src"
+
+TRACE::2024-10-17.19:00:26::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_15/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-10-17.19:00:26::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_C
+TRACE::2024-10-17.19:00:26::SCWMssOS::OMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-17.19:00:26::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v8_0/src"
+
+TRACE::2024-10-17.19:00:26::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-10-17.19:00:26::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EX
+TRACE::2024-10-17.19:00:26::SCWMssOS::TRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-17.19:00:26::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2024-10-17.19:00:26::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-10-17.19:00:26::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTR
+TRACE::2024-10-17.19:00:26::SCWMssOS::A_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-17.19:00:26::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_8/src"
+
+TRACE::2024-10-17.19:00:26::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-10-17.19:00:26::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPI
+TRACE::2024-10-17.19:00:26::SCWMssOS::LER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-17.19:00:26::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_16/src"
+
+TRACE::2024-10-17.19:00:26::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-10-17.19:00:26::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPI
+TRACE::2024-10-17.19:00:26::SCWMssOS::LER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-17.19:00:26::SCWMssOS::"Running Make libs in microblaze_0/libsrc/gpio_v4_9/src"
+
+TRACE::2024-10-17.19:00:26::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-10-17.19:00:26::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPI
+TRACE::2024-10-17.19:00:26::SCWMssOS::LER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-17.19:00:26::SCWMssOS::"Running Make libs in microblaze_0/libsrc/intc_v3_15/src"
+
+TRACE::2024-10-17.19:00:26::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_15/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_
+TRACE::2024-10-17.19:00:26::SCWMssOS::FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMP
+TRACE::2024-10-17.19:00:26::SCWMssOS::ILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-17.19:00:26::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v8_0/src"
+
+TRACE::2024-10-17.19:00:26::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2024-10-17.19:00:26::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA
+TRACE::2024-10-17.19:00:26::SCWMssOS::_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-17.19:00:26::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2024-10-17.19:00:26::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-10-17.19:00:26::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_C
+TRACE::2024-10-17.19:00:26::SCWMssOS::OMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-17.19:00:27::SCWMssOS::"DEBUG NON_LTO_OBJECTS is ../../../lib/microblaze_interrupt_handler.o"
+
+TRACE::2024-10-17.19:00:27::SCWMssOS::'Finished building libraries parallelly.'
+
+TRACE::2024-10-17.19:00:27::SCWMssOS::make --no-print-directory archive
+
+TRACE::2024-10-17.19:00:27::SCWMssOS::mb-ar -r  microblaze_0/lib/libxil.a microblaze_0/lib/_exit.o microblaze_0/lib/errno.o microblaze_0/lib/fcntl.o microblaze_0/lib
+TRACE::2024-10-17.19:00:27::SCWMssOS::/hw_exception_handler.o microblaze_0/lib/inbyte.o microblaze_0/lib/microblaze_disable_dcache.o microblaze_0/lib/microblaze_disa
+TRACE::2024-10-17.19:00:27::SCWMssOS::ble_exceptions.o microblaze_0/lib/microblaze_disable_icache.o microblaze_0/lib/microblaze_disable_interrupts.o microblaze_0/lib
+TRACE::2024-10-17.19:00:27::SCWMssOS::/microblaze_enable_dcache.o microblaze_0/lib/microblaze_enable_exceptions.o microblaze_0/lib/microblaze_enable_icache.o microbl
+TRACE::2024-10-17.19:00:27::SCWMssOS::aze_0/lib/microblaze_enable_interrupts.o microblaze_0/lib/microblaze_exception_handler.o microblaze_0/lib/microblaze_flush_cach
+TRACE::2024-10-17.19:00:27::SCWMssOS::e_ext.o microblaze_0/lib/microblaze_flush_cache_ext_range.o microblaze_0/lib/microblaze_flush_dcache.o microblaze_0/lib/microbl
+TRACE::2024-10-17.19:00:27::SCWMssOS::aze_flush_dcache_range.o microblaze_0/lib/microblaze_init_dcache_range.o microblaze_0/lib/microblaze_init_icache_range.o microb
+TRACE::2024-10-17.19:00:27::SCWMssOS::laze_0/lib/microblaze_interrupt_handler.o microblaze_0/lib/microblaze_interrupts_g.o microblaze_0/lib/microblaze_invalidate_cac
+TRACE::2024-10-17.19:00:27::SCWMssOS::he_ext.o microblaze_0/lib/microblaze_invalidate_cache_ext_range.o microblaze_0/lib/microblaze_invalidate_dcache.o microblaze_0/
+TRACE::2024-10-17.19:00:27::SCWMssOS::lib/microblaze_invalidate_dcache_range.o microblaze_0/lib/microblaze_invalidate_icache.o microblaze_0/lib/microblaze_invalidate
+TRACE::2024-10-17.19:00:27::SCWMssOS::_icache_range.o microblaze_0/lib/microblaze_scrub.o microblaze_0/lib/microblaze_selftest.o microblaze_0/lib/microblaze_sleep.o 
+TRACE::2024-10-17.19:00:27::SCWMssOS::microblaze_0/lib/microblaze_update_dcache.o microblaze_0/lib/microblaze_update_icache.o microblaze_0/lib/outbyte.o microblaze_0
+TRACE::2024-10-17.19:00:27::SCWMssOS::/lib/print.o microblaze_0/lib/pvr.o microblaze_0/lib/xbram.o microblaze_0/lib/xbram_g.o microblaze_0/lib/xbram_intr.o microblaz
+TRACE::2024-10-17.19:00:27::SCWMssOS::e_0/lib/xbram_selftest.o microblaze_0/lib/xbram_sinit.o microblaze_0/lib/xgpio.o microblaze_0/lib/xgpio_extra.o microblaze_0/li
+TRACE::2024-10-17.19:00:27::SCWMssOS::b/xgpio_g.o microblaze_0/lib/xgpio_intr.o microblaze_0/lib/xgpio_selftest.o microblaze_0/lib/xgpio_sinit.o microblaze_0/lib/xil
+TRACE::2024-10-17.19:00:27::SCWMssOS::_assert.o microblaze_0/lib/xil_cache.o microblaze_0/lib/xil_clocking.o microblaze_0/lib/xil_exception.o microblaze_0/lib/xil_me
+TRACE::2024-10-17.19:00:27::SCWMssOS::m.o microblaze_0/lib/xil_misc_psreset_api.o microblaze_0/lib/xil_printf.o microblaze_0/lib/xil_sleepcommon.o microblaze_0/lib/x
+TRACE::2024-10-17.19:00:27::SCWMssOS::il_testcache.o microblaze_0/lib/xil_testio.o microblaze_0/lib/xil_testmem.o microblaze_0/lib/xil_util.o microblaze_0/lib/xintc.
+TRACE::2024-10-17.19:00:27::SCWMssOS::o microblaze_0/lib/xintc_g.o microblaze_0/lib/xintc_intr.o microblaze_0/lib/xintc_l.o microblaze_0/lib/xintc_options.o microbla
+TRACE::2024-10-17.19:00:27::SCWMssOS::ze_0/lib/xintc_selftest.o microblaze_0/lib/xinterrupt_wrap.o microblaze_0/lib/xio.o microblaze_0/lib/xplatform_info.o microblaz
+TRACE::2024-10-17.19:00:27::SCWMssOS::e_0/lib/xuartlite.o microblaze_0/lib/xuartlite_g.o microblaze_0/lib/xuartlite_intr.o microblaze_0/lib/xuartlite_l.o microblaze_
+TRACE::2024-10-17.19:00:27::SCWMssOS::0/lib/xuartlite_selftest.o microblaze_0/lib/xuartlite_sinit.o microblaze_0/lib/xuartlite_stats.o
+
+TRACE::2024-10-17.19:00:28::SCWMssOS::'Finished building libraries'
+
+TRACE::2024-10-17.19:00:28::SCWMssOS::Copying to export directory.
+TRACE::2024-10-17.19:00:28::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-10-17.19:00:28::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-10-17.19:00:28::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2024-10-17.19:00:28::SCWSystem::Completed Processing the sysconfig mb_intro_top
+LOG::2024-10-17.19:00:28::SCWPlatform::Completed generating the artifacts for system configuration mb_intro_top
+TRACE::2024-10-17.19:00:28::SCWPlatform::Started preparing the platform 
+TRACE::2024-10-17.19:00:28::SCWSystem::Writing the bif file for system config mb_intro_top
+TRACE::2024-10-17.19:00:28::SCWSystem::dir created 
+TRACE::2024-10-17.19:00:28::SCWSystem::Writing the bif 
+TRACE::2024-10-17.19:00:28::SCWPlatform::Started writing the spfm file 
+TRACE::2024-10-17.19:00:28::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-10-17.19:00:28::SCWPlatform::Completed generating the platform
+TRACE::2024-10-17.19:00:28::SCWMssOS::Saving the mss changes C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.19:00:28::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-10-17.19:00:28::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-10-17.19:00:28::SCWMssOS::Commit changes completed.
+TRACE::2024-10-17.19:00:28::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:28::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:28::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:28::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.19:00:28::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:28::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.19:00:28::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_1
+TRACE::2024-10-17.19:00:28::SCWPlatform::Opened existing hwdb mb_intro_top_1
+TRACE::2024-10-17.19:00:28::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.19:00:28::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.19:00:28::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.19:00:28::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.19:00:28::SCWWriter::formatted JSON is {
+	"platformName":	"mb_intro_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_intro_top",
+	"platHandOff":	"C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/mb_intro_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_intro_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_intro_top",
+	"systems":	[{
+			"systemName":	"mb_intro_top",
+			"systemDesc":	"mb_intro_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_intro_top",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"d71f0390b049c5e98d3f47dfaddd10a6",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-10-17.19:00:28::SCWPlatform::updated the xpfm file.
+TRACE::2024-10-17.19:00:28::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:28::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:28::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:28::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.19:00:28::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:00:28::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.19:00:28::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top_1
+TRACE::2024-10-17.19:00:28::SCWPlatform::Opened existing hwdb mb_intro_top_1
+TRACE::2024-10-17.19:00:28::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.19:00:28::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.19:00:28::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.19:00:28::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.19:16:18::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:16:18::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:16:18::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:16:18::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.19:16:18::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:16:18::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.19:16:18::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-10-17.19:16:19::SCWPlatform::Opened new HwDB with name mb_intro_top
+TRACE::2024-10-17.19:16:19::SCWReader::Active system found as  mb_intro_top
+TRACE::2024-10-17.19:16:19::SCWReader::Handling sysconfig mb_intro_top
+TRACE::2024-10-17.19:16:19::SCWDomain::checking for install qemu data   : 
+TRACE::2024-10-17.19:16:19::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:16:19::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:16:19::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:16:19::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.19:16:19::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:16:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.19:16:19::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top
+TRACE::2024-10-17.19:16:19::SCWPlatform::Opened existing hwdb mb_intro_top
+TRACE::2024-10-17.19:16:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.19:16:19::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:16:19::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:16:19::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:16:19::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.19:16:19::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:16:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.19:16:19::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top
+TRACE::2024-10-17.19:16:19::SCWPlatform::Opened existing hwdb mb_intro_top
+TRACE::2024-10-17.19:16:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.19:16:19::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:16:19::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:16:19::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:16:19::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.19:16:19::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:16:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.19:16:19::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top
+TRACE::2024-10-17.19:16:19::SCWPlatform::Opened existing hwdb mb_intro_top
+TRACE::2024-10-17.19:16:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.19:16:19::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:16:19::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:16:19::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:16:19::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.19:16:19::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:16:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.19:16:19::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top
+TRACE::2024-10-17.19:16:19::SCWPlatform::Opened existing hwdb mb_intro_top
+TRACE::2024-10-17.19:16:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.19:16:19::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.19:16:19::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-10-17.19:16:19::SCWMssOS::No sw design opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.19:16:19::SCWMssOS::mss exists loading the mss file  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.19:16:19::SCWMssOS::Opened the sw design from mss  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.19:16:19::SCWMssOS::Adding the swdes entry C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2024-10-17.19:16:19::SCWMssOS::updating the scw layer about changes
+TRACE::2024-10-17.19:16:19::SCWMssOS::Opened the sw design.  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.19:16:19::SCWMssOS::Saving the mss changes C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.19:16:19::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-10-17.19:16:19::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-10-17.19:16:19::SCWMssOS::Commit changes completed.
+TRACE::2024-10-17.19:16:19::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2024-10-17.19:16:19::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2024-10-17.19:16:19::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:16:19::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:16:19::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:16:19::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw
+TRACE::2024-10-17.19:16:19::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/hw/mb_intro_top.xsa
+TRACE::2024-10-17.19:16:19::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-17.19:16:19::SCWPlatform::Trying to set the existing hwdb with name mb_intro_top
+TRACE::2024-10-17.19:16:19::SCWPlatform::Opened existing hwdb mb_intro_top
+TRACE::2024-10-17.19:16:19::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-17.19:16:19::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.19:16:19::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-17.19:16:19::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-17.19:16:19::SCWReader::No isolation master present  
+TRACE::2024-10-17.19:16:19::SCWMssOS::cleaning the bsp 
+TRACE::2024-10-17.19:16:19::SCWMssOS::System Command Ran  C: & cd  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/workspace/mb_intro_top/microblaze_0/standalone_microblaze_0/bsp & make clean 
+TRACE::2024-10-17.19:16:19::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s clean 
+
+TRACE::2024-10-17.19:16:19::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s clean 
+
+TRACE::2024-10-17.19:16:19::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s clean 
+
+TRACE::2024-10-17.19:16:19::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_15/src -s clean 
+
+TRACE::2024-10-17.19:16:19::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s clean 
+
+TRACE::2024-10-17.19:16:19::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s clean 
+
+TRACE::2024-10-17.19:16:20::SCWMssOS::rm -f microblaze_0/lib/libxil.a
+

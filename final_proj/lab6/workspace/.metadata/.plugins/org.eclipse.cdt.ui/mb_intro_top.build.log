@@ -1,0 +1,22 @@
+19:16:16 **** Clean-only build of project mb_intro_top ****
+buildplatform.bat 51944 mb_intro_top clean 
+XSDB Server Channel: tcfchan#1
+Reading the platform  : "mb_intro_top"
+Cleaning the BSP for domain  - standalone_microblaze_0
+make -C microblaze_0/libsrc/bram_v4_8/src -s clean 
+
+make -C microblaze_0/libsrc/cpu_v2_16/src -s clean 
+
+make -C microblaze_0/libsrc/gpio_v4_9/src -s clean 
+
+make -C microblaze_0/libsrc/intc_v3_15/src -s clean 
+
+make -C microblaze_0/libsrc/standalone_v8_0/src -s clean 
+
+make -C microblaze_0/libsrc/uartlite_v3_7/src -s clean 
+
+rm -f microblaze_0/lib/libxil.a
+
+
+19:16:20 Build Finished (took 3s.188ms)
+

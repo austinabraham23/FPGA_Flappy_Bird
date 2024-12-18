@@ -1,0 +1,8 @@
++====================+===================+=============================+
+| Launch Setup Clock | Launch Hold Clock | Pin                         |
++====================+===================+=============================+
+| clk_100            | clk_100           | PACMAN_AUDIO/index_reg[4]/D |
+| clk_100            | clk_100           | PACMAN_AUDIO/index_reg[3]/D |
+| clk_100            | clk_100           | PACMAN_AUDIO/index_reg[0]/D |
+| clk_100            | clk_100           | PACMAN_AUDIO/index_reg[2]/D |
++--------------------+-------------------+-----------------------------+

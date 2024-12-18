@@ -1,0 +1,54 @@
+15:56:28 DEBUG : Logs will be stored at 'C:/Users/austi/OneDrive/Desktop/385Labs/final_proj/lab6/flappybird2_workspace/IDE.log'.
+15:56:30 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Users\austi\OneDrive\Desktop\385Labs\final_proj\lab6\flappybird2_workspace\temp_xsdb_launch_script.tcl
+15:56:30 INFO  : Platform repository initialization has completed.
+15:56:30 INFO  : Registering command handlers for Vitis TCF services
+15:56:32 INFO  : XSCT server has started successfully.
+15:56:32 INFO  : plnx-install-location is set to ''
+15:56:32 INFO  : Successfully done setting XSCT server connection channel  
+15:56:32 INFO  : Successfully done query RDI_DATADIR 
+15:56:32 INFO  : Successfully done setting workspace for the tool. 
+15:56:54 INFO  : Result from executing command 'getProjects': flappy_bird
+15:56:54 INFO  : Result from executing command 'getPlatforms': 
+15:56:54 WARN  : An unexpected exception occurred in the module 'platform project logging'
+15:56:55 INFO  : Platform 'flappy_bird' is added to custom repositories.
+15:56:56 INFO  : Platform 'flappy_bird' is added to custom repositories.
+15:58:02 INFO  : Result from executing command 'removePlatformRepo': 
+15:58:07 INFO  : Result from executing command 'getProjects': flappy_bird
+15:58:07 INFO  : Result from executing command 'getPlatforms': 
+15:58:08 INFO  : Checking for BSP changes to sync application flags for project 'flap'...
+15:58:24 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:58:24 INFO  : Jtag cable 'RealDigital Boo 8874292300B3A' is selected.
+15:58:24 INFO  : 'jtag frequency' command is executed.
+15:58:24 INFO  : 'targets -set -filter {jtag_cable_name =~ "RealDigital Boo 8874292300B3A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}' command is executed.
+15:58:25 INFO  : Device configured successfully with "C:/Users/austi/OneDrive/Desktop/385Labs/final_proj/lab6/flappybird2_workspace/flap/_ide/bitstream/flappy_bird.bit"
+15:58:26 INFO  : Context for processor 'microblaze_0' is selected.
+15:58:26 INFO  : Hardware design and registers information is loaded from 'C:/Users/austi/OneDrive/Desktop/385Labs/final_proj/lab6/flappybird2_workspace/flappy_bird/export/flappy_bird/hw/flappy_bird.xsa'.
+15:58:26 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+15:58:26 INFO  : Context for processor 'microblaze_0' is selected.
+15:58:26 INFO  : System reset is completed.
+15:58:29 INFO  : 'after 3000' command is executed.
+15:58:29 INFO  : Context for processor 'microblaze_0' is selected.
+15:58:29 INFO  : The application 'C:/Users/austi/OneDrive/Desktop/385Labs/final_proj/lab6/flappybird2_workspace/flap/Debug/flap.elf' is downloaded to processor 'microblaze_0'.
+15:58:29 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "RealDigital Boo 8874292300B3A" && level==0 && jtag_device_ctx=="jsn1-0362f093-0"}
+fpga -file C:/Users/austi/OneDrive/Desktop/385Labs/final_proj/lab6/flappybird2_workspace/flap/_ide/bitstream/flappy_bird.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw C:/Users/austi/OneDrive/Desktop/385Labs/final_proj/lab6/flappybird2_workspace/flappy_bird/export/flappy_bird/hw/flappy_bird.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow C:/Users/austi/OneDrive/Desktop/385Labs/final_proj/lab6/flappybird2_workspace/flap/Debug/flap.elf
+----------------End of Script----------------
+
+15:58:29 INFO  : Context for processor 'microblaze_0' is selected.
+15:58:29 INFO  : 'con' command is executed.
+15:58:29 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+15:58:29 INFO  : Launch script is exported to file 'C:\Users\austi\OneDrive\Desktop\385Labs\final_proj\lab6\flappybird2_workspace\flap_system\_ide\scripts\debugger_flap-default.tcl'
+19:14:37 INFO  : Disconnected from the channel tcfchan#3.

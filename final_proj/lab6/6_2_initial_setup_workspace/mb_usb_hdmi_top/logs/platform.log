@@ -1,0 +1,2031 @@
+TRACE::2024-10-23.16:46:52::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:52::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:52::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:52::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.16:46:52::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.16:46:52::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-10-23.16:46:52::SCWPlatform::Opened new HwDB with name mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:52::SCWWriter::formatted JSON is {
+	"platformName":	"mb_usb_hdmi_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_usb_hdmi_top",
+	"platHandOff":	"C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/mb_usb_hdmi_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_usb_hdmi_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2024-10-23.16:46:52::SCWWriter::formatted JSON is {
+	"platformName":	"mb_usb_hdmi_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_usb_hdmi_top",
+	"platHandOff":	"C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/mb_usb_hdmi_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_usb_hdmi_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_usb_hdmi_top",
+	"systems":	[{
+			"systemName":	"mb_usb_hdmi_top",
+			"systemDesc":	"mb_usb_hdmi_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_usb_hdmi_top"
+		}]
+}
+TRACE::2024-10-23.16:46:52::SCWPlatform::Boot application domains not present, creating them
+TRACE::2024-10-23.16:46:52::SCWPlatform::Pure FPGA device, no boot application will be created.
+TRACE::2024-10-23.16:46:52::SCWWriter::formatted JSON is {
+	"platformName":	"mb_usb_hdmi_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_usb_hdmi_top",
+	"platHandOff":	"C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/mb_usb_hdmi_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_usb_hdmi_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_usb_hdmi_top",
+	"systems":	[{
+			"systemName":	"mb_usb_hdmi_top",
+			"systemDesc":	"mb_usb_hdmi_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_usb_hdmi_top"
+		}]
+}
+TRACE::2024-10-23.16:46:52::SCWWriter::formatted JSON is {
+	"platformName":	"mb_usb_hdmi_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_usb_hdmi_top",
+	"platHandOff":	"C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/mb_usb_hdmi_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_usb_hdmi_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_usb_hdmi_top",
+	"systems":	[{
+			"systemName":	"mb_usb_hdmi_top",
+			"systemDesc":	"mb_usb_hdmi_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_usb_hdmi_top"
+		}]
+}
+TRACE::2024-10-23.16:46:52::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:52::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:52::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:52::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.16:46:52::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:52::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.16:46:52::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:52::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:52::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.16:46:53::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:53::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:53::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:53::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.16:46:53::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.16:46:53::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:53::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.16:46:53::SCWDomain::checking for install qemu data   : 
+TRACE::2024-10-23.16:46:53::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:53::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:53::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:53::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.16:46:53::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.16:46:53::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:53::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.16:46:53::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:53::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:53::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:53::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.16:46:53::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.16:46:53::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:53::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.16:46:53::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:53::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:53::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:53::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.16:46:53::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:53::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.16:46:53::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:53::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:53::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.16:46:53::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:53::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-10-23.16:46:53::SCWMssOS::No sw design opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:53::SCWMssOS::mss does not exists at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:53::SCWMssOS::Creating sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:53::SCWMssOS::Adding the swdes entry, created swdb C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:53::SCWMssOS::updating the scw layer changes to swdes at   C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:53::SCWMssOS::Writing mss at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:53::SCWMssOS::Completed writing the mss file at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-10-23.16:46:53::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2024-10-23.16:46:53::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2024-10-23.16:46:53::SCWMssOS::Completed writing the mss file at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-10-23.16:46:53::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2024-10-23.16:46:57::SCWMssOS::Saving the mss changes C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2024-10-23.16:46:57::SCWMssOS::Writing the mss file completed C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::Commit changes completed.
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.16:46:57::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.16:46:57::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.16:46:57::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.16:46:57::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.16:46:57::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.16:46:57::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWWriter::formatted JSON is {
+	"platformName":	"mb_usb_hdmi_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_usb_hdmi_top",
+	"platHandOff":	"C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/mb_usb_hdmi_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_usb_hdmi_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_usb_hdmi_top",
+	"systems":	[{
+			"systemName":	"mb_usb_hdmi_top",
+			"systemDesc":	"mb_usb_hdmi_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_usb_hdmi_top",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"304529987e879521ca977c68d163f362",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2024-10-23.16:46:57::SCWPlatform::Started generating the artifacts platform mb_usb_hdmi_top
+TRACE::2024-10-23.16:46:57::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-10-23.16:46:57::SCWPlatform::Started generating the artifacts for system configuration mb_usb_hdmi_top
+LOG::2024-10-23.16:46:57::SCWSystem::Checking the domain standalone_microblaze_0
+LOG::2024-10-23.16:46:57::SCWSystem::Not a boot domain 
+LOG::2024-10-23.16:46:57::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2024-10-23.16:46:57::SCWDomain::Generating domain artifcats
+TRACE::2024-10-23.16:46:57::SCWMssOS::Generating standalone artifcats
+TRACE::2024-10-23.16:46:57::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.16:46:57::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.16:46:57::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::Completed writing the mss file at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-10-23.16:46:57::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-10-23.16:46:57::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-10-23.16:46:57::SCWDomain::Skipping the build for domain :  standalone_microblaze_0
+TRACE::2024-10-23.16:46:57::SCWMssOS::skipping the bsp build ... 
+TRACE::2024-10-23.16:46:57::SCWMssOS::Copying to export directory.
+TRACE::2024-10-23.16:46:57::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-10-23.16:46:57::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-10-23.16:46:57::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2024-10-23.16:46:57::SCWSystem::Completed Processing the sysconfig mb_usb_hdmi_top
+LOG::2024-10-23.16:46:57::SCWPlatform::Completed generating the artifacts for system configuration mb_usb_hdmi_top
+TRACE::2024-10-23.16:46:57::SCWPlatform::Started preparing the platform 
+TRACE::2024-10-23.16:46:57::SCWSystem::Writing the bif file for system config mb_usb_hdmi_top
+TRACE::2024-10-23.16:46:57::SCWSystem::dir created 
+TRACE::2024-10-23.16:46:57::SCWSystem::Writing the bif 
+TRACE::2024-10-23.16:46:57::SCWPlatform::Started writing the spfm file 
+TRACE::2024-10-23.16:46:57::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-10-23.16:46:57::SCWPlatform::Completed generating the platform
+TRACE::2024-10-23.16:46:57::SCWMssOS::Saving the mss changes C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-10-23.16:46:57::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-10-23.16:46:57::SCWMssOS::Commit changes completed.
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.16:46:57::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.16:46:57::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.16:46:57::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.16:46:57::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.16:46:57::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.16:46:57::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWWriter::formatted JSON is {
+	"platformName":	"mb_usb_hdmi_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_usb_hdmi_top",
+	"platHandOff":	"C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/mb_usb_hdmi_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_usb_hdmi_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_usb_hdmi_top",
+	"systems":	[{
+			"systemName":	"mb_usb_hdmi_top",
+			"systemDesc":	"mb_usb_hdmi_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_usb_hdmi_top",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"304529987e879521ca977c68d163f362",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-10-23.16:46:57::SCWPlatform::updated the xpfm file.
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.16:46:57::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.16:46:57::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::Saving the mss changes C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-10-23.16:46:57::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-10-23.16:46:57::SCWMssOS::Commit changes completed.
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.16:46:57::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.16:46:57::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.16:46:57::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.16:46:57::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.16:46:57::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.16:46:57::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWWriter::formatted JSON is {
+	"platformName":	"mb_usb_hdmi_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_usb_hdmi_top",
+	"platHandOff":	"C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/mb_usb_hdmi_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_usb_hdmi_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_usb_hdmi_top",
+	"systems":	[{
+			"systemName":	"mb_usb_hdmi_top",
+			"systemDesc":	"mb_usb_hdmi_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_usb_hdmi_top",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"304529987e879521ca977c68d163f362",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.16:46:57::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.16:46:57::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.16:46:57::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.16:46:57::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::Saving the mss changes C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-10-23.16:46:57::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-10-23.16:46:57::SCWMssOS::Commit changes completed.
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.16:46:57::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.16:46:57::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.16:46:57::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.16:46:57::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.16:46:57::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.16:46:57::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWWriter::formatted JSON is {
+	"platformName":	"mb_usb_hdmi_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_usb_hdmi_top",
+	"platHandOff":	"C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/mb_usb_hdmi_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_usb_hdmi_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_usb_hdmi_top",
+	"systems":	[{
+			"systemName":	"mb_usb_hdmi_top",
+			"systemDesc":	"mb_usb_hdmi_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_usb_hdmi_top",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"304529987e879521ca977c68d163f362",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2024-10-23.16:46:57::SCWPlatform::Started generating the artifacts platform mb_usb_hdmi_top
+TRACE::2024-10-23.16:46:57::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-10-23.16:46:57::SCWPlatform::Started generating the artifacts for system configuration mb_usb_hdmi_top
+LOG::2024-10-23.16:46:57::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2024-10-23.16:46:57::SCWDomain::Generating domain artifcats
+TRACE::2024-10-23.16:46:57::SCWMssOS::Generating standalone artifcats
+TRACE::2024-10-23.16:46:57::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.16:46:57::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.16:46:57::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::Completed writing the mss file at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-10-23.16:46:57::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-10-23.16:46:57::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-10-23.16:46:57::SCWDomain::Building the domain as part of full build :  standalone_microblaze_0
+TRACE::2024-10-23.16:46:57::SCWMssOS::skipping the bsp build ... 
+TRACE::2024-10-23.16:46:57::SCWMssOS::Copying to export directory.
+TRACE::2024-10-23.16:46:57::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-10-23.16:46:57::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-10-23.16:46:57::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2024-10-23.16:46:57::SCWSystem::Completed Processing the sysconfig mb_usb_hdmi_top
+LOG::2024-10-23.16:46:57::SCWPlatform::Completed generating the artifacts for system configuration mb_usb_hdmi_top
+TRACE::2024-10-23.16:46:57::SCWPlatform::Started preparing the platform 
+TRACE::2024-10-23.16:46:57::SCWSystem::Writing the bif file for system config mb_usb_hdmi_top
+TRACE::2024-10-23.16:46:57::SCWSystem::dir created 
+TRACE::2024-10-23.16:46:57::SCWSystem::Writing the bif 
+TRACE::2024-10-23.16:46:57::SCWPlatform::Started writing the spfm file 
+TRACE::2024-10-23.16:46:57::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-10-23.16:46:57::SCWPlatform::Completed generating the platform
+TRACE::2024-10-23.16:46:57::SCWMssOS::Saving the mss changes C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-10-23.16:46:57::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-10-23.16:46:57::SCWMssOS::Commit changes completed.
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.16:46:57::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.16:46:57::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.16:46:57::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.16:46:57::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.16:46:57::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-23.16:46:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.16:46:57::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.16:46:57::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.16:46:57::SCWWriter::formatted JSON is {
+	"platformName":	"mb_usb_hdmi_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_usb_hdmi_top",
+	"platHandOff":	"C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/mb_usb_hdmi_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_usb_hdmi_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_usb_hdmi_top",
+	"systems":	[{
+			"systemName":	"mb_usb_hdmi_top",
+			"systemDesc":	"mb_usb_hdmi_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_usb_hdmi_top",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"304529987e879521ca977c68d163f362",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-10-23.16:46:57::SCWPlatform::updated the xpfm file.
+TRACE::2024-10-23.19:19:13::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:13::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:13::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:13::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:19:13::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:13::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:19:13::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-10-23.19:19:13::SCWPlatform::Opened new HwDB with name mb_usb_hdmi_top
+TRACE::2024-10-23.19:19:13::SCWReader::Active system found as  mb_usb_hdmi_top
+TRACE::2024-10-23.19:19:13::SCWReader::Handling sysconfig mb_usb_hdmi_top
+TRACE::2024-10-23.19:19:13::SCWDomain::checking for install qemu data   : 
+TRACE::2024-10-23.19:19:13::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:13::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:13::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:13::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:19:13::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:13::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:19:13::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top
+TRACE::2024-10-23.19:19:13::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top
+TRACE::2024-10-23.19:19:13::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:19:13::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:13::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:13::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:13::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:19:13::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:13::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:19:13::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top
+TRACE::2024-10-23.19:19:13::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top
+TRACE::2024-10-23.19:19:13::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:19:13::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:13::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:13::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:13::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:19:13::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:13::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:19:13::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top
+TRACE::2024-10-23.19:19:13::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top
+TRACE::2024-10-23.19:19:13::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:19:13::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:13::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:13::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:13::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:19:13::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:13::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:19:13::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top
+TRACE::2024-10-23.19:19:13::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top
+TRACE::2024-10-23.19:19:13::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:19:13::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:19:13::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-10-23.19:19:13::SCWMssOS::No sw design opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:19:13::SCWMssOS::mss exists loading the mss file  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:19:13::SCWMssOS::Opened the sw design from mss  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:19:13::SCWMssOS::Adding the swdes entry C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2024-10-23.19:19:13::SCWMssOS::updating the scw layer about changes
+TRACE::2024-10-23.19:19:13::SCWMssOS::Opened the sw design.  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:19:13::SCWMssOS::Saving the mss changes C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:19:13::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-10-23.19:19:13::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-10-23.19:19:13::SCWMssOS::Commit changes completed.
+TRACE::2024-10-23.19:19:13::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2024-10-23.19:19:13::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2024-10-23.19:19:13::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:13::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:13::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:13::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:19:13::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:13::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:19:13::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top
+TRACE::2024-10-23.19:19:13::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top
+TRACE::2024-10-23.19:19:13::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:19:13::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:19:13::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.19:19:13::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:19:13::SCWReader::No isolation master present  
+TRACE::2024-10-23.19:19:17::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/tempdsa/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:17::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/tempdsa/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:17::SCWPlatform:: Platform location is C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/tempdsa
+TRACE::2024-10-23.19:19:17::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/tempdsa/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:17::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:19:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:19:17::SCWMssOS::Doing hw sync for the mss in domain: standalone_microblaze_0
+TRACE::2024-10-23.19:19:17::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:17::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:17::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:17::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:19:17::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:17::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:19:17::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top
+TRACE::2024-10-23.19:19:17::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top
+TRACE::2024-10-23.19:19:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:19:17::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:17::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:17::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:17::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:19:17::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:17::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:19:17::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top
+TRACE::2024-10-23.19:19:17::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top
+TRACE::2024-10-23.19:19:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:19:17::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:19:17::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.19:19:17::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:19:17::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/tempdsa/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:17::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/tempdsa/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:17::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/tempdsa/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:17::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/tempdsa
+TRACE::2024-10-23.19:19:17::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/tempdsa/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:17::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:19:17::SCWPlatform::update - Opened existing hwdb mb_usb_hdmi_top_0
+TRACE::2024-10-23.19:19:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:19:17::SCWMssOS::Saving the mss changes C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:19:17::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-10-23.19:19:17::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-10-23.19:19:17::SCWMssOS::Commit changes completed.
+TRACE::2024-10-23.19:19:17::SCWMssOS::Completed hw sync for the mss in domain: standalone_microblaze_0
+TRACE::2024-10-23.19:19:17::SCWMssOS::Removing the swdes entry for  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:19:17::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:17::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:17::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:17::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:19:17::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:17::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:19:17::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-10-23.19:19:17::SCWPlatform::Opened new HwDB with name mb_usb_hdmi_top_1
+TRACE::2024-10-23.19:19:17::SCWMssOS::Saving the mss changes C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:19:17::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2024-10-23.19:19:17::SCWMssOS::Writing the mss file completed C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:19:17::SCWMssOS::Commit changes completed.
+TRACE::2024-10-23.19:19:17::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:17::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:17::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:17::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:19:17::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:19:17::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:19:17::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_1
+TRACE::2024-10-23.19:19:17::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_1
+TRACE::2024-10-23.19:19:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:19:17::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:19:17::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.19:19:17::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:19:17::SCWWriter::formatted JSON is {
+	"platformName":	"mb_usb_hdmi_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_usb_hdmi_top",
+	"platHandOff":	"C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/mb_usb_hdmi_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_usb_hdmi_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_usb_hdmi_top",
+	"systems":	[{
+			"systemName":	"mb_usb_hdmi_top",
+			"systemDesc":	"mb_usb_hdmi_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_usb_hdmi_top",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"304529987e879521ca977c68d163f3621",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-10-23.19:40:57::SCWMssOS::cleaning the bsp 
+TRACE::2024-10-23.19:40:57::SCWMssOS::System Command Ran  C: & cd  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp & make clean 
+TRACE::2024-10-23.19:40:58::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s clean 
+
+TRACE::2024-10-23.19:40:58::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s clean 
+
+TRACE::2024-10-23.19:40:58::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s clean 
+
+TRACE::2024-10-23.19:40:58::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_15/src -s clean 
+
+TRACE::2024-10-23.19:40:58::SCWMssOS::make -C microblaze_0/libsrc/spi_v4_9/src -s clean 
+
+TRACE::2024-10-23.19:40:58::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s clean 
+
+TRACE::2024-10-23.19:40:58::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s clean 
+
+TRACE::2024-10-23.19:40:58::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s clean 
+
+TRACE::2024-10-23.19:40:58::SCWMssOS::rm -f microblaze_0/lib/libxil.a
+
+LOG::2024-10-23.19:41:00::SCWPlatform::Started generating the artifacts platform mb_usb_hdmi_top
+TRACE::2024-10-23.19:41:00::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-10-23.19:41:00::SCWPlatform::Started generating the artifacts for system configuration mb_usb_hdmi_top
+LOG::2024-10-23.19:41:00::SCWSystem::Checking the domain standalone_microblaze_0
+LOG::2024-10-23.19:41:00::SCWSystem::Not a boot domain 
+LOG::2024-10-23.19:41:00::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2024-10-23.19:41:00::SCWDomain::Generating domain artifcats
+TRACE::2024-10-23.19:41:00::SCWMssOS::Generating standalone artifcats
+TRACE::2024-10-23.19:41:00::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-10-23.19:41:00::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:41:00::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:41:00::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:41:00::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:41:00::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:41:00::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:41:00::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_1
+TRACE::2024-10-23.19:41:00::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_1
+TRACE::2024-10-23.19:41:00::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:41:00::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:41:00::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.19:41:00::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:41:00::SCWMssOS::Completed writing the mss file at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-10-23.19:41:00::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:41:01::SCWMssOS::bsp generated is stale removing and regenerating. 
+TRACE::2024-10-23.19:41:03::SCWMssOS::doing bsp build ... 
+TRACE::2024-10-23.19:41:03::SCWMssOS::System Command Ran  C: & cd  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp & make 
+TRACE::2024-10-23.19:41:03::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::'Finished building libraries sequentially.'
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::make -j 14 --no-print-directory par_libs
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_8/src"
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-10-23.19:41:03::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2024-10-23.19:41:03::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_16/src"
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-10-23.19:41:03::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2024-10-23.19:41:03::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::"Running Make include in microblaze_0/libsrc/gpio_v4_9/src"
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-10-23.19:41:03::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2024-10-23.19:41:03::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::"Running Make include in microblaze_0/libsrc/intc_v3_15/src"
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_15/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-10-23.19:41:03::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_C
+TRACE::2024-10-23.19:41:03::SCWMssOS::OMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::"Running Make include in microblaze_0/libsrc/spi_v4_9/src"
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::make -C microblaze_0/libsrc/spi_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2024-10-23.19:41:03::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COM
+TRACE::2024-10-23.19:41:03::SCWMssOS::PILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v8_0/src"
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-10-23.19:41:03::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EX
+TRACE::2024-10-23.19:41:03::SCWMssOS::TRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::"Running Make include in microblaze_0/libsrc/tmrctr_v4_9/src"
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPI
+TRACE::2024-10-23.19:41:03::SCWMssOS::LER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_
+TRACE::2024-10-23.19:41:03::SCWMssOS::COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-10-23.19:41:03::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTR
+TRACE::2024-10-23.19:41:03::SCWMssOS::A_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_8/src"
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-10-23.19:41:03::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPI
+TRACE::2024-10-23.19:41:03::SCWMssOS::LER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_16/src"
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::"Running Make libs in microblaze_0/libsrc/gpio_v4_9/src"
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::"Running Make libs in microblaze_0/libsrc/intc_v3_15/src"
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::"Running Make libs in microblaze_0/libsrc/spi_v4_9/src"
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-10-23.19:41:03::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPI
+TRACE::2024-10-23.19:41:03::SCWMssOS::LER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-10-23.19:41:03::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPI
+TRACE::2024-10-23.19:41:03::SCWMssOS::LER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v8_0/src"
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_15/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_
+TRACE::2024-10-23.19:41:03::SCWMssOS::FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMP
+TRACE::2024-10-23.19:41:03::SCWMssOS::ILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:41:03::SCWMssOS::make -C microblaze_0/libsrc/spi_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_FL
+TRACE::2024-10-23.19:41:03::SCWMssOS::AGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPIL
+TRACE::2024-10-23.19:41:03::SCWMssOS::ER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:41:04::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2024-10-23.19:41:04::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA
+TRACE::2024-10-23.19:41:04::SCWMssOS::_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:41:04::SCWMssOS::"Running Make libs in microblaze_0/libsrc/tmrctr_v4_9/src"
+
+TRACE::2024-10-23.19:41:04::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2024-10-23.19:41:04::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COM
+TRACE::2024-10-23.19:41:04::SCWMssOS::PILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:41:04::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2024-10-23.19:41:04::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-10-23.19:41:04::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_C
+TRACE::2024-10-23.19:41:04::SCWMssOS::OMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:41:05::SCWMssOS::"DEBUG NON_LTO_OBJECTS is ../../../lib/microblaze_interrupt_handler.o"
+
+TRACE::2024-10-23.19:41:05::SCWMssOS::'Finished building libraries parallelly.'
+
+TRACE::2024-10-23.19:41:05::SCWMssOS::make --no-print-directory archive
+
+TRACE::2024-10-23.19:41:05::SCWMssOS::mb-ar -r  microblaze_0/lib/libxil.a microblaze_0/lib/_exit.o microblaze_0/lib/errno.o microblaze_0/lib/fcntl.o microblaze_0/lib
+TRACE::2024-10-23.19:41:05::SCWMssOS::/hw_exception_handler.o microblaze_0/lib/inbyte.o microblaze_0/lib/microblaze_disable_dcache.o microblaze_0/lib/microblaze_disa
+TRACE::2024-10-23.19:41:05::SCWMssOS::ble_exceptions.o microblaze_0/lib/microblaze_disable_icache.o microblaze_0/lib/microblaze_disable_interrupts.o microblaze_0/lib
+TRACE::2024-10-23.19:41:05::SCWMssOS::/microblaze_enable_dcache.o microblaze_0/lib/microblaze_enable_exceptions.o microblaze_0/lib/microblaze_enable_icache.o microbl
+TRACE::2024-10-23.19:41:05::SCWMssOS::aze_0/lib/microblaze_enable_interrupts.o microblaze_0/lib/microblaze_exception_handler.o microblaze_0/lib/microblaze_flush_cach
+TRACE::2024-10-23.19:41:05::SCWMssOS::e_ext.o microblaze_0/lib/microblaze_flush_cache_ext_range.o microblaze_0/lib/microblaze_flush_dcache.o microblaze_0/lib/microbl
+TRACE::2024-10-23.19:41:05::SCWMssOS::aze_flush_dcache_range.o microblaze_0/lib/microblaze_init_dcache_range.o microblaze_0/lib/microblaze_init_icache_range.o microb
+TRACE::2024-10-23.19:41:05::SCWMssOS::laze_0/lib/microblaze_interrupt_handler.o microblaze_0/lib/microblaze_interrupts_g.o microblaze_0/lib/microblaze_invalidate_cac
+TRACE::2024-10-23.19:41:05::SCWMssOS::he_ext.o microblaze_0/lib/microblaze_invalidate_cache_ext_range.o microblaze_0/lib/microblaze_invalidate_dcache.o microblaze_0/
+TRACE::2024-10-23.19:41:05::SCWMssOS::lib/microblaze_invalidate_dcache_range.o microblaze_0/lib/microblaze_invalidate_icache.o microblaze_0/lib/microblaze_invalidate
+TRACE::2024-10-23.19:41:05::SCWMssOS::_icache_range.o microblaze_0/lib/microblaze_scrub.o microblaze_0/lib/microblaze_selftest.o microblaze_0/lib/microblaze_sleep.o 
+TRACE::2024-10-23.19:41:05::SCWMssOS::microblaze_0/lib/microblaze_update_dcache.o microblaze_0/lib/microblaze_update_icache.o microblaze_0/lib/outbyte.o microblaze_0
+TRACE::2024-10-23.19:41:05::SCWMssOS::/lib/print.o microblaze_0/lib/pvr.o microblaze_0/lib/xbram.o microblaze_0/lib/xbram_g.o microblaze_0/lib/xbram_intr.o microblaz
+TRACE::2024-10-23.19:41:05::SCWMssOS::e_0/lib/xbram_selftest.o microblaze_0/lib/xbram_sinit.o microblaze_0/lib/xgpio.o microblaze_0/lib/xgpio_extra.o microblaze_0/li
+TRACE::2024-10-23.19:41:05::SCWMssOS::b/xgpio_g.o microblaze_0/lib/xgpio_intr.o microblaze_0/lib/xgpio_selftest.o microblaze_0/lib/xgpio_sinit.o microblaze_0/lib/xil
+TRACE::2024-10-23.19:41:05::SCWMssOS::_assert.o microblaze_0/lib/xil_cache.o microblaze_0/lib/xil_clocking.o microblaze_0/lib/xil_exception.o microblaze_0/lib/xil_me
+TRACE::2024-10-23.19:41:05::SCWMssOS::m.o microblaze_0/lib/xil_misc_psreset_api.o microblaze_0/lib/xil_printf.o microblaze_0/lib/xil_sleepcommon.o microblaze_0/lib/x
+TRACE::2024-10-23.19:41:05::SCWMssOS::il_testcache.o microblaze_0/lib/xil_testio.o microblaze_0/lib/xil_testmem.o microblaze_0/lib/xil_util.o microblaze_0/lib/xintc.
+TRACE::2024-10-23.19:41:05::SCWMssOS::o microblaze_0/lib/xintc_g.o microblaze_0/lib/xintc_intr.o microblaze_0/lib/xintc_l.o microblaze_0/lib/xintc_options.o microbla
+TRACE::2024-10-23.19:41:05::SCWMssOS::ze_0/lib/xintc_selftest.o microblaze_0/lib/xinterrupt_wrap.o microblaze_0/lib/xio.o microblaze_0/lib/xplatform_info.o microblaz
+TRACE::2024-10-23.19:41:05::SCWMssOS::e_0/lib/xspi.o microblaze_0/lib/xspi_g.o microblaze_0/lib/xspi_options.o microblaze_0/lib/xspi_selftest.o microblaze_0/lib/xspi
+TRACE::2024-10-23.19:41:05::SCWMssOS::_sinit.o microblaze_0/lib/xspi_stats.o microblaze_0/lib/xtmrctr.o microblaze_0/lib/xtmrctr_g.o microblaze_0/lib/xtmrctr_intr.o 
+TRACE::2024-10-23.19:41:05::SCWMssOS::microblaze_0/lib/xtmrctr_l.o microblaze_0/lib/xtmrctr_options.o microblaze_0/lib/xtmrctr_selftest.o microblaze_0/lib/xtmrctr_si
+TRACE::2024-10-23.19:41:05::SCWMssOS::nit.o microblaze_0/lib/xtmrctr_stats.o microblaze_0/lib/xuartlite.o microblaze_0/lib/xuartlite_g.o microblaze_0/lib/xuartlite_i
+TRACE::2024-10-23.19:41:05::SCWMssOS::ntr.o microblaze_0/lib/xuartlite_l.o microblaze_0/lib/xuartlite_selftest.o microblaze_0/lib/xuartlite_sinit.o microblaze_0/lib/
+TRACE::2024-10-23.19:41:05::SCWMssOS::xuartlite_stats.o
+
+TRACE::2024-10-23.19:41:05::SCWMssOS::'Finished building libraries'
+
+TRACE::2024-10-23.19:41:06::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-10-23.19:41:06::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-10-23.19:41:06::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2024-10-23.19:41:06::SCWSystem::Completed Processing the sysconfig mb_usb_hdmi_top
+LOG::2024-10-23.19:41:06::SCWPlatform::Completed generating the artifacts for system configuration mb_usb_hdmi_top
+TRACE::2024-10-23.19:41:06::SCWPlatform::Started preparing the platform 
+TRACE::2024-10-23.19:41:06::SCWSystem::Writing the bif file for system config mb_usb_hdmi_top
+TRACE::2024-10-23.19:41:06::SCWSystem::dir created 
+TRACE::2024-10-23.19:41:06::SCWSystem::Writing the bif 
+TRACE::2024-10-23.19:41:06::SCWPlatform::Started writing the spfm file 
+TRACE::2024-10-23.19:41:06::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-10-23.19:41:06::SCWPlatform::Completed generating the platform
+TRACE::2024-10-23.19:41:06::SCWMssOS::Saving the mss changes C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:41:06::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2024-10-23.19:41:06::SCWMssOS::Writing the mss file completed C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:41:06::SCWMssOS::Commit changes completed.
+TRACE::2024-10-23.19:41:06::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:41:06::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:41:06::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:41:06::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:41:06::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:41:06::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:41:06::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_1
+TRACE::2024-10-23.19:41:06::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_1
+TRACE::2024-10-23.19:41:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:41:06::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:41:06::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.19:41:06::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:41:06::SCWWriter::formatted JSON is {
+	"platformName":	"mb_usb_hdmi_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_usb_hdmi_top",
+	"platHandOff":	"C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/mb_usb_hdmi_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_usb_hdmi_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_usb_hdmi_top",
+	"systems":	[{
+			"systemName":	"mb_usb_hdmi_top",
+			"systemDesc":	"mb_usb_hdmi_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_usb_hdmi_top",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"304529987e879521ca977c68d163f362",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-10-23.19:41:06::SCWPlatform::updated the xpfm file.
+TRACE::2024-10-23.19:41:06::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:41:06::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:41:06::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:41:06::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:41:06::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:41:06::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:41:06::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_1
+TRACE::2024-10-23.19:41:06::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_1
+TRACE::2024-10-23.19:41:06::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:41:06::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:41:06::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.19:41:06::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:43:57::SCWMssOS::cleaning the bsp 
+TRACE::2024-10-23.19:43:57::SCWMssOS::System Command Ran  C: & cd  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp & make clean 
+TRACE::2024-10-23.19:43:57::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s clean 
+
+TRACE::2024-10-23.19:43:57::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s clean 
+
+TRACE::2024-10-23.19:43:57::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s clean 
+
+TRACE::2024-10-23.19:43:57::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_15/src -s clean 
+
+TRACE::2024-10-23.19:43:57::SCWMssOS::make -C microblaze_0/libsrc/spi_v4_9/src -s clean 
+
+TRACE::2024-10-23.19:43:57::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s clean 
+
+TRACE::2024-10-23.19:43:58::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s clean 
+
+TRACE::2024-10-23.19:43:58::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s clean 
+
+TRACE::2024-10-23.19:43:58::SCWMssOS::rm -f microblaze_0/lib/libxil.a
+
+LOG::2024-10-23.19:44:00::SCWPlatform::Started generating the artifacts platform mb_usb_hdmi_top
+TRACE::2024-10-23.19:44:00::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-10-23.19:44:00::SCWPlatform::Started generating the artifacts for system configuration mb_usb_hdmi_top
+LOG::2024-10-23.19:44:00::SCWSystem::Checking the domain standalone_microblaze_0
+LOG::2024-10-23.19:44:00::SCWSystem::Not a boot domain 
+LOG::2024-10-23.19:44:00::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2024-10-23.19:44:00::SCWDomain::Generating domain artifcats
+TRACE::2024-10-23.19:44:00::SCWMssOS::Generating standalone artifcats
+TRACE::2024-10-23.19:44:00::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-10-23.19:44:00::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:44:00::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:44:00::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:44:00::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:44:00::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:44:00::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:44:00::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_1
+TRACE::2024-10-23.19:44:00::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_1
+TRACE::2024-10-23.19:44:00::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:44:00::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:44:00::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.19:44:00::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:44:00::SCWMssOS::Completed writing the mss file at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-10-23.19:44:00::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:44:00::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2024-10-23.19:44:00::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2024-10-23.19:44:00::SCWDomain::Building the domain as part of full build :  standalone_microblaze_0
+TRACE::2024-10-23.19:44:00::SCWMssOS::doing bsp build ... 
+TRACE::2024-10-23.19:44:00::SCWMssOS::System Command Ran  C: & cd  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp & make 
+TRACE::2024-10-23.19:44:01::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::'Finished building libraries sequentially.'
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::make -j 14 --no-print-directory par_libs
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_8/src"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_16/src"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-10-23.19:44:01::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2024-10-23.19:44:01::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-10-23.19:44:01::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2024-10-23.19:44:01::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::"Running Make include in microblaze_0/libsrc/gpio_v4_9/src"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-10-23.19:44:01::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2024-10-23.19:44:01::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::"Running Make include in microblaze_0/libsrc/intc_v3_15/src"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_15/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-10-23.19:44:01::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_C
+TRACE::2024-10-23.19:44:01::SCWMssOS::OMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::"Running Make include in microblaze_0/libsrc/spi_v4_9/src"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::make -C microblaze_0/libsrc/spi_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2024-10-23.19:44:01::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COM
+TRACE::2024-10-23.19:44:01::SCWMssOS::PILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v8_0/src"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-10-23.19:44:01::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EX
+TRACE::2024-10-23.19:44:01::SCWMssOS::TRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::"Running Make include in microblaze_0/libsrc/tmrctr_v4_9/src"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPI
+TRACE::2024-10-23.19:44:01::SCWMssOS::LER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_
+TRACE::2024-10-23.19:44:01::SCWMssOS::COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-10-23.19:44:01::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTR
+TRACE::2024-10-23.19:44:01::SCWMssOS::A_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_8/src"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-10-23.19:44:01::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPI
+TRACE::2024-10-23.19:44:01::SCWMssOS::LER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_16/src"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-10-23.19:44:01::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPI
+TRACE::2024-10-23.19:44:01::SCWMssOS::LER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::"Running Make libs in microblaze_0/libsrc/gpio_v4_9/src"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-10-23.19:44:01::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPI
+TRACE::2024-10-23.19:44:01::SCWMssOS::LER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::"Running Make libs in microblaze_0/libsrc/intc_v3_15/src"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_15/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_
+TRACE::2024-10-23.19:44:01::SCWMssOS::FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMP
+TRACE::2024-10-23.19:44:01::SCWMssOS::ILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::"Running Make libs in microblaze_0/libsrc/spi_v4_9/src"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::make -C microblaze_0/libsrc/spi_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_FL
+TRACE::2024-10-23.19:44:01::SCWMssOS::AGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPIL
+TRACE::2024-10-23.19:44:01::SCWMssOS::ER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v8_0/src"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2024-10-23.19:44:01::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA
+TRACE::2024-10-23.19:44:01::SCWMssOS::_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::"Running Make libs in microblaze_0/libsrc/tmrctr_v4_9/src"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2024-10-23.19:44:01::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COM
+TRACE::2024-10-23.19:44:01::SCWMssOS::PILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2024-10-23.19:44:01::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-10-23.19:44:01::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_C
+TRACE::2024-10-23.19:44:01::SCWMssOS::OMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:44:02::SCWMssOS::"DEBUG NON_LTO_OBJECTS is ../../../lib/microblaze_interrupt_handler.o"
+
+TRACE::2024-10-23.19:44:02::SCWMssOS::'Finished building libraries parallelly.'
+
+TRACE::2024-10-23.19:44:02::SCWMssOS::make --no-print-directory archive
+
+TRACE::2024-10-23.19:44:02::SCWMssOS::mb-ar -r  microblaze_0/lib/libxil.a microblaze_0/lib/_exit.o microblaze_0/lib/errno.o microblaze_0/lib/fcntl.o microblaze_0/lib
+TRACE::2024-10-23.19:44:02::SCWMssOS::/hw_exception_handler.o microblaze_0/lib/inbyte.o microblaze_0/lib/microblaze_disable_dcache.o microblaze_0/lib/microblaze_disa
+TRACE::2024-10-23.19:44:02::SCWMssOS::ble_exceptions.o microblaze_0/lib/microblaze_disable_icache.o microblaze_0/lib/microblaze_disable_interrupts.o microblaze_0/lib
+TRACE::2024-10-23.19:44:02::SCWMssOS::/microblaze_enable_dcache.o microblaze_0/lib/microblaze_enable_exceptions.o microblaze_0/lib/microblaze_enable_icache.o microbl
+TRACE::2024-10-23.19:44:02::SCWMssOS::aze_0/lib/microblaze_enable_interrupts.o microblaze_0/lib/microblaze_exception_handler.o microblaze_0/lib/microblaze_flush_cach
+TRACE::2024-10-23.19:44:02::SCWMssOS::e_ext.o microblaze_0/lib/microblaze_flush_cache_ext_range.o microblaze_0/lib/microblaze_flush_dcache.o microblaze_0/lib/microbl
+TRACE::2024-10-23.19:44:02::SCWMssOS::aze_flush_dcache_range.o microblaze_0/lib/microblaze_init_dcache_range.o microblaze_0/lib/microblaze_init_icache_range.o microb
+TRACE::2024-10-23.19:44:02::SCWMssOS::laze_0/lib/microblaze_interrupt_handler.o microblaze_0/lib/microblaze_interrupts_g.o microblaze_0/lib/microblaze_invalidate_cac
+TRACE::2024-10-23.19:44:02::SCWMssOS::he_ext.o microblaze_0/lib/microblaze_invalidate_cache_ext_range.o microblaze_0/lib/microblaze_invalidate_dcache.o microblaze_0/
+TRACE::2024-10-23.19:44:02::SCWMssOS::lib/microblaze_invalidate_dcache_range.o microblaze_0/lib/microblaze_invalidate_icache.o microblaze_0/lib/microblaze_invalidate
+TRACE::2024-10-23.19:44:02::SCWMssOS::_icache_range.o microblaze_0/lib/microblaze_scrub.o microblaze_0/lib/microblaze_selftest.o microblaze_0/lib/microblaze_sleep.o 
+TRACE::2024-10-23.19:44:02::SCWMssOS::microblaze_0/lib/microblaze_update_dcache.o microblaze_0/lib/microblaze_update_icache.o microblaze_0/lib/outbyte.o microblaze_0
+TRACE::2024-10-23.19:44:02::SCWMssOS::/lib/print.o microblaze_0/lib/pvr.o microblaze_0/lib/xbram.o microblaze_0/lib/xbram_g.o microblaze_0/lib/xbram_intr.o microblaz
+TRACE::2024-10-23.19:44:02::SCWMssOS::e_0/lib/xbram_selftest.o microblaze_0/lib/xbram_sinit.o microblaze_0/lib/xgpio.o microblaze_0/lib/xgpio_extra.o microblaze_0/li
+TRACE::2024-10-23.19:44:02::SCWMssOS::b/xgpio_g.o microblaze_0/lib/xgpio_intr.o microblaze_0/lib/xgpio_selftest.o microblaze_0/lib/xgpio_sinit.o microblaze_0/lib/xil
+TRACE::2024-10-23.19:44:02::SCWMssOS::_assert.o microblaze_0/lib/xil_cache.o microblaze_0/lib/xil_clocking.o microblaze_0/lib/xil_exception.o microblaze_0/lib/xil_me
+TRACE::2024-10-23.19:44:02::SCWMssOS::m.o microblaze_0/lib/xil_misc_psreset_api.o microblaze_0/lib/xil_printf.o microblaze_0/lib/xil_sleepcommon.o microblaze_0/lib/x
+TRACE::2024-10-23.19:44:02::SCWMssOS::il_testcache.o microblaze_0/lib/xil_testio.o microblaze_0/lib/xil_testmem.o microblaze_0/lib/xil_util.o microblaze_0/lib/xintc.
+TRACE::2024-10-23.19:44:02::SCWMssOS::o microblaze_0/lib/xintc_g.o microblaze_0/lib/xintc_intr.o microblaze_0/lib/xintc_l.o microblaze_0/lib/xintc_options.o microbla
+TRACE::2024-10-23.19:44:02::SCWMssOS::ze_0/lib/xintc_selftest.o microblaze_0/lib/xinterrupt_wrap.o microblaze_0/lib/xio.o microblaze_0/lib/xplatform_info.o microblaz
+TRACE::2024-10-23.19:44:02::SCWMssOS::e_0/lib/xspi.o microblaze_0/lib/xspi_g.o microblaze_0/lib/xspi_options.o microblaze_0/lib/xspi_selftest.o microblaze_0/lib/xspi
+TRACE::2024-10-23.19:44:02::SCWMssOS::_sinit.o microblaze_0/lib/xspi_stats.o microblaze_0/lib/xtmrctr.o microblaze_0/lib/xtmrctr_g.o microblaze_0/lib/xtmrctr_intr.o 
+TRACE::2024-10-23.19:44:02::SCWMssOS::microblaze_0/lib/xtmrctr_l.o microblaze_0/lib/xtmrctr_options.o microblaze_0/lib/xtmrctr_selftest.o microblaze_0/lib/xtmrctr_si
+TRACE::2024-10-23.19:44:02::SCWMssOS::nit.o microblaze_0/lib/xtmrctr_stats.o microblaze_0/lib/xuartlite.o microblaze_0/lib/xuartlite_g.o microblaze_0/lib/xuartlite_i
+TRACE::2024-10-23.19:44:02::SCWMssOS::ntr.o microblaze_0/lib/xuartlite_l.o microblaze_0/lib/xuartlite_selftest.o microblaze_0/lib/xuartlite_sinit.o microblaze_0/lib/
+TRACE::2024-10-23.19:44:02::SCWMssOS::xuartlite_stats.o
+
+TRACE::2024-10-23.19:44:02::SCWMssOS::'Finished building libraries'
+
+TRACE::2024-10-23.19:44:03::SCWMssOS::Copying to export directory.
+TRACE::2024-10-23.19:44:03::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-10-23.19:44:03::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-10-23.19:44:03::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2024-10-23.19:44:03::SCWSystem::Completed Processing the sysconfig mb_usb_hdmi_top
+LOG::2024-10-23.19:44:03::SCWPlatform::Completed generating the artifacts for system configuration mb_usb_hdmi_top
+TRACE::2024-10-23.19:44:03::SCWPlatform::Started preparing the platform 
+TRACE::2024-10-23.19:44:03::SCWSystem::Writing the bif file for system config mb_usb_hdmi_top
+TRACE::2024-10-23.19:44:03::SCWSystem::dir created 
+TRACE::2024-10-23.19:44:03::SCWSystem::Writing the bif 
+TRACE::2024-10-23.19:44:03::SCWPlatform::Started writing the spfm file 
+TRACE::2024-10-23.19:44:03::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-10-23.19:44:03::SCWPlatform::Completed generating the platform
+TRACE::2024-10-23.19:44:03::SCWMssOS::Saving the mss changes C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:44:03::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-10-23.19:44:03::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-10-23.19:44:03::SCWMssOS::Commit changes completed.
+TRACE::2024-10-23.19:44:03::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:44:03::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:44:03::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:44:03::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:44:03::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:44:03::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:44:03::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_1
+TRACE::2024-10-23.19:44:03::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_1
+TRACE::2024-10-23.19:44:03::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:44:03::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:44:03::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.19:44:03::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:44:03::SCWWriter::formatted JSON is {
+	"platformName":	"mb_usb_hdmi_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_usb_hdmi_top",
+	"platHandOff":	"C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/mb_usb_hdmi_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_usb_hdmi_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_usb_hdmi_top",
+	"systems":	[{
+			"systemName":	"mb_usb_hdmi_top",
+			"systemDesc":	"mb_usb_hdmi_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_usb_hdmi_top",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"304529987e879521ca977c68d163f362",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-10-23.19:44:03::SCWPlatform::updated the xpfm file.
+TRACE::2024-10-23.19:44:03::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:44:03::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:44:03::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:44:03::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:44:03::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:44:03::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:44:03::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_1
+TRACE::2024-10-23.19:44:03::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_1
+TRACE::2024-10-23.19:44:03::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:44:03::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:44:03::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.19:44:03::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:58:31::SCWPlatform::Clearing the existing platform
+TRACE::2024-10-23.19:58:31::SCWSystem::Clearing the existing sysconfig
+TRACE::2024-10-23.19:58:31::SCWMssOS::Removing the swdes entry for  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:58:31::SCWSystem::Clearing the domains completed.
+TRACE::2024-10-23.19:58:31::SCWPlatform::Clearing the opened hw db.
+TRACE::2024-10-23.19:58:31::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform:: Platform location is C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:58:31::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:58:31::SCWPlatform::Removing the HwDB with name C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:58:31::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:58:31::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-10-23.19:58:31::SCWPlatform::Opened new HwDB with name mb_usb_hdmi_top_3
+TRACE::2024-10-23.19:58:31::SCWReader::Active system found as  mb_usb_hdmi_top
+TRACE::2024-10-23.19:58:31::SCWReader::Handling sysconfig mb_usb_hdmi_top
+TRACE::2024-10-23.19:58:31::SCWDomain::checking for install qemu data   : 
+TRACE::2024-10-23.19:58:31::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:58:31::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:58:31::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_3
+TRACE::2024-10-23.19:58:31::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_3
+TRACE::2024-10-23.19:58:31::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:58:31::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:58:31::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:58:31::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_3
+TRACE::2024-10-23.19:58:31::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_3
+TRACE::2024-10-23.19:58:31::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:58:31::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:58:31::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:58:31::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_3
+TRACE::2024-10-23.19:58:31::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_3
+TRACE::2024-10-23.19:58:31::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:58:31::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:58:31::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:58:31::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_3
+TRACE::2024-10-23.19:58:31::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_3
+TRACE::2024-10-23.19:58:31::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:58:31::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:58:31::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2024-10-23.19:58:31::SCWMssOS::No sw design opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:58:31::SCWMssOS::mss exists loading the mss file  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:58:31::SCWMssOS::Opened the sw design from mss  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:58:31::SCWMssOS::Adding the swdes entry C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2024-10-23.19:58:31::SCWMssOS::updating the scw layer about changes
+TRACE::2024-10-23.19:58:31::SCWMssOS::Opened the sw design.  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:58:31::SCWMssOS::Saving the mss changes C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:58:31::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-10-23.19:58:31::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-10-23.19:58:31::SCWMssOS::Commit changes completed.
+TRACE::2024-10-23.19:58:31::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2024-10-23.19:58:31::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2024-10-23.19:58:31::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:58:31::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:31::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:58:31::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_3
+TRACE::2024-10-23.19:58:31::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_3
+TRACE::2024-10-23.19:58:31::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:58:31::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:58:31::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.19:58:31::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:58:31::SCWReader::No isolation master present  
+TRACE::2024-10-23.19:58:34::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/tempdsa/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:34::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/tempdsa/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:34::SCWPlatform:: Platform location is C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/tempdsa
+TRACE::2024-10-23.19:58:34::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/tempdsa/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:34::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:58:34::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:58:34::SCWMssOS::Doing hw sync for the mss in domain: standalone_microblaze_0
+TRACE::2024-10-23.19:58:34::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:34::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:34::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:34::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:58:34::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:34::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:58:34::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_3
+TRACE::2024-10-23.19:58:34::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_3
+TRACE::2024-10-23.19:58:34::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:58:34::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:34::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:34::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:34::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:58:34::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:34::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:58:34::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_3
+TRACE::2024-10-23.19:58:34::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_3
+TRACE::2024-10-23.19:58:34::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:58:34::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:58:34::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.19:58:34::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:58:34::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/tempdsa/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:34::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/tempdsa/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:34::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/tempdsa/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:34::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/tempdsa
+TRACE::2024-10-23.19:58:34::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/tempdsa/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:34::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:58:34::SCWPlatform::update - Opened existing hwdb mb_usb_hdmi_top_4
+TRACE::2024-10-23.19:58:34::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:58:34::SCWMssOS::Saving the mss changes C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:58:34::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2024-10-23.19:58:34::SCWMssOS::Completed writemss as part of save.
+TRACE::2024-10-23.19:58:34::SCWMssOS::Commit changes completed.
+TRACE::2024-10-23.19:58:34::SCWMssOS::Completed hw sync for the mss in domain: standalone_microblaze_0
+TRACE::2024-10-23.19:58:34::SCWMssOS::Removing the swdes entry for  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:58:34::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:34::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:34::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:34::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:58:34::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:34::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:58:34::SCWPlatform::Do not have an existing db opened. 
+TRACE::2024-10-23.19:58:34::SCWPlatform::Opened new HwDB with name mb_usb_hdmi_top_5
+TRACE::2024-10-23.19:58:34::SCWMssOS::Saving the mss changes C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:58:34::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2024-10-23.19:58:34::SCWMssOS::Writing the mss file completed C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:58:34::SCWMssOS::Commit changes completed.
+TRACE::2024-10-23.19:58:34::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:34::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:34::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:34::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:58:34::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:34::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:58:34::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_5
+TRACE::2024-10-23.19:58:34::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_5
+TRACE::2024-10-23.19:58:34::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:58:34::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:58:34::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.19:58:34::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:58:34::SCWWriter::formatted JSON is {
+	"platformName":	"mb_usb_hdmi_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_usb_hdmi_top",
+	"platHandOff":	"C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/mb_usb_hdmi_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_usb_hdmi_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_usb_hdmi_top",
+	"systems":	[{
+			"systemName":	"mb_usb_hdmi_top",
+			"systemDesc":	"mb_usb_hdmi_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_usb_hdmi_top",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"304529987e879521ca977c68d163f3621",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2024-10-23.19:58:43::SCWMssOS::cleaning the bsp 
+TRACE::2024-10-23.19:58:43::SCWMssOS::System Command Ran  C: & cd  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp & make clean 
+TRACE::2024-10-23.19:58:43::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s clean 
+
+TRACE::2024-10-23.19:58:43::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s clean 
+
+TRACE::2024-10-23.19:58:43::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s clean 
+
+TRACE::2024-10-23.19:58:43::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_15/src -s clean 
+
+TRACE::2024-10-23.19:58:43::SCWMssOS::make -C microblaze_0/libsrc/spi_v4_9/src -s clean 
+
+TRACE::2024-10-23.19:58:43::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s clean 
+
+TRACE::2024-10-23.19:58:44::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s clean 
+
+TRACE::2024-10-23.19:58:44::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s clean 
+
+TRACE::2024-10-23.19:58:44::SCWMssOS::rm -f microblaze_0/lib/libxil.a
+
+LOG::2024-10-23.19:58:46::SCWPlatform::Started generating the artifacts platform mb_usb_hdmi_top
+TRACE::2024-10-23.19:58:46::SCWPlatform::Sanity checking of platform is completed
+LOG::2024-10-23.19:58:46::SCWPlatform::Started generating the artifacts for system configuration mb_usb_hdmi_top
+LOG::2024-10-23.19:58:46::SCWSystem::Checking the domain standalone_microblaze_0
+LOG::2024-10-23.19:58:46::SCWSystem::Not a boot domain 
+LOG::2024-10-23.19:58:46::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2024-10-23.19:58:46::SCWDomain::Generating domain artifcats
+TRACE::2024-10-23.19:58:46::SCWMssOS::Generating standalone artifcats
+TRACE::2024-10-23.19:58:46::SCWMssOS:: Copying the user libraries. 
+TRACE::2024-10-23.19:58:46::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:46::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:46::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:46::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:58:46::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:46::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:58:46::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_5
+TRACE::2024-10-23.19:58:46::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_5
+TRACE::2024-10-23.19:58:46::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:58:46::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:58:46::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.19:58:46::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:58:46::SCWMssOS::Completed writing the mss file at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2024-10-23.19:58:46::SCWMssOS::Mss edits present, copying mssfile into export location C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:58:46::SCWMssOS::bsp generated is stale removing and regenerating. 
+TRACE::2024-10-23.19:58:48::SCWMssOS::doing bsp build ... 
+TRACE::2024-10-23.19:58:48::SCWMssOS::System Command Ran  C: & cd  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp & make 
+TRACE::2024-10-23.19:58:48::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2024-10-23.19:58:48::SCWMssOS::'Finished building libraries sequentially.'
+
+TRACE::2024-10-23.19:58:48::SCWMssOS::make -j 14 --no-print-directory par_libs
+
+TRACE::2024-10-23.19:58:48::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_8/src"
+
+TRACE::2024-10-23.19:58:48::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-10-23.19:58:48::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2024-10-23.19:58:48::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:58:48::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_16/src"
+
+TRACE::2024-10-23.19:58:48::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-10-23.19:58:48::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2024-10-23.19:58:48::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:58:48::SCWMssOS::"Running Make include in microblaze_0/libsrc/gpio_v4_9/src"
+
+TRACE::2024-10-23.19:58:48::SCWMssOS::"Running Make include in microblaze_0/libsrc/intc_v3_15/src"
+
+TRACE::2024-10-23.19:58:48::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2024-10-23.19:58:48::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2024-10-23.19:58:48::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:58:48::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_15/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-10-23.19:58:48::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_C
+TRACE::2024-10-23.19:58:48::SCWMssOS::OMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:58:48::SCWMssOS::"Running Make include in microblaze_0/libsrc/spi_v4_9/src"
+
+TRACE::2024-10-23.19:58:48::SCWMssOS::make -C microblaze_0/libsrc/spi_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2024-10-23.19:58:48::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COM
+TRACE::2024-10-23.19:58:48::SCWMssOS::PILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:58:48::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v8_0/src"
+
+TRACE::2024-10-23.19:58:48::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2024-10-23.19:58:48::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EX
+TRACE::2024-10-23.19:58:48::SCWMssOS::TRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:58:48::SCWMssOS::"Running Make include in microblaze_0/libsrc/tmrctr_v4_9/src"
+
+TRACE::2024-10-23.19:58:48::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2024-10-23.19:58:48::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPI
+TRACE::2024-10-23.19:58:48::SCWMssOS::LER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_
+TRACE::2024-10-23.19:58:48::SCWMssOS::COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:58:48::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2024-10-23.19:58:48::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTR
+TRACE::2024-10-23.19:58:48::SCWMssOS::A_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:58:48::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_8/src"
+
+TRACE::2024-10-23.19:58:49::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-10-23.19:58:49::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPI
+TRACE::2024-10-23.19:58:49::SCWMssOS::LER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:58:49::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_16/src"
+
+TRACE::2024-10-23.19:58:49::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-10-23.19:58:49::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPI
+TRACE::2024-10-23.19:58:49::SCWMssOS::LER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:58:49::SCWMssOS::"Running Make libs in microblaze_0/libsrc/gpio_v4_9/src"
+
+TRACE::2024-10-23.19:58:49::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2024-10-23.19:58:49::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPI
+TRACE::2024-10-23.19:58:49::SCWMssOS::LER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:58:49::SCWMssOS::"Running Make libs in microblaze_0/libsrc/intc_v3_15/src"
+
+TRACE::2024-10-23.19:58:49::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_15/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_
+TRACE::2024-10-23.19:58:49::SCWMssOS::FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMP
+TRACE::2024-10-23.19:58:49::SCWMssOS::ILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:58:49::SCWMssOS::"Running Make libs in microblaze_0/libsrc/spi_v4_9/src"
+
+TRACE::2024-10-23.19:58:49::SCWMssOS::make -C microblaze_0/libsrc/spi_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_FL
+TRACE::2024-10-23.19:58:49::SCWMssOS::AGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPIL
+TRACE::2024-10-23.19:58:49::SCWMssOS::ER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:58:49::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v8_0/src"
+
+TRACE::2024-10-23.19:58:49::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2024-10-23.19:58:49::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA
+TRACE::2024-10-23.19:58:49::SCWMssOS::_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:58:49::SCWMssOS::"Running Make libs in microblaze_0/libsrc/tmrctr_v4_9/src"
+
+TRACE::2024-10-23.19:58:49::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2024-10-23.19:58:49::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COM
+TRACE::2024-10-23.19:58:49::SCWMssOS::PILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:58:49::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2024-10-23.19:58:49::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2024-10-23.19:58:49::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_C
+TRACE::2024-10-23.19:58:49::SCWMssOS::OMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2024-10-23.19:58:50::SCWMssOS::"DEBUG NON_LTO_OBJECTS is ../../../lib/microblaze_interrupt_handler.o"
+
+TRACE::2024-10-23.19:58:50::SCWMssOS::'Finished building libraries parallelly.'
+
+TRACE::2024-10-23.19:58:50::SCWMssOS::make --no-print-directory archive
+
+TRACE::2024-10-23.19:58:50::SCWMssOS::mb-ar -r  microblaze_0/lib/libxil.a microblaze_0/lib/_exit.o microblaze_0/lib/errno.o microblaze_0/lib/fcntl.o microblaze_0/lib
+TRACE::2024-10-23.19:58:50::SCWMssOS::/hw_exception_handler.o microblaze_0/lib/inbyte.o microblaze_0/lib/microblaze_disable_dcache.o microblaze_0/lib/microblaze_disa
+TRACE::2024-10-23.19:58:50::SCWMssOS::ble_exceptions.o microblaze_0/lib/microblaze_disable_icache.o microblaze_0/lib/microblaze_disable_interrupts.o microblaze_0/lib
+TRACE::2024-10-23.19:58:50::SCWMssOS::/microblaze_enable_dcache.o microblaze_0/lib/microblaze_enable_exceptions.o microblaze_0/lib/microblaze_enable_icache.o microbl
+TRACE::2024-10-23.19:58:50::SCWMssOS::aze_0/lib/microblaze_enable_interrupts.o microblaze_0/lib/microblaze_exception_handler.o microblaze_0/lib/microblaze_flush_cach
+TRACE::2024-10-23.19:58:50::SCWMssOS::e_ext.o microblaze_0/lib/microblaze_flush_cache_ext_range.o microblaze_0/lib/microblaze_flush_dcache.o microblaze_0/lib/microbl
+TRACE::2024-10-23.19:58:50::SCWMssOS::aze_flush_dcache_range.o microblaze_0/lib/microblaze_init_dcache_range.o microblaze_0/lib/microblaze_init_icache_range.o microb
+TRACE::2024-10-23.19:58:50::SCWMssOS::laze_0/lib/microblaze_interrupt_handler.o microblaze_0/lib/microblaze_interrupts_g.o microblaze_0/lib/microblaze_invalidate_cac
+TRACE::2024-10-23.19:58:50::SCWMssOS::he_ext.o microblaze_0/lib/microblaze_invalidate_cache_ext_range.o microblaze_0/lib/microblaze_invalidate_dcache.o microblaze_0/
+TRACE::2024-10-23.19:58:50::SCWMssOS::lib/microblaze_invalidate_dcache_range.o microblaze_0/lib/microblaze_invalidate_icache.o microblaze_0/lib/microblaze_invalidate
+TRACE::2024-10-23.19:58:50::SCWMssOS::_icache_range.o microblaze_0/lib/microblaze_scrub.o microblaze_0/lib/microblaze_selftest.o microblaze_0/lib/microblaze_sleep.o 
+TRACE::2024-10-23.19:58:50::SCWMssOS::microblaze_0/lib/microblaze_update_dcache.o microblaze_0/lib/microblaze_update_icache.o microblaze_0/lib/outbyte.o microblaze_0
+TRACE::2024-10-23.19:58:50::SCWMssOS::/lib/print.o microblaze_0/lib/pvr.o microblaze_0/lib/xbram.o microblaze_0/lib/xbram_g.o microblaze_0/lib/xbram_intr.o microblaz
+TRACE::2024-10-23.19:58:50::SCWMssOS::e_0/lib/xbram_selftest.o microblaze_0/lib/xbram_sinit.o microblaze_0/lib/xgpio.o microblaze_0/lib/xgpio_extra.o microblaze_0/li
+TRACE::2024-10-23.19:58:50::SCWMssOS::b/xgpio_g.o microblaze_0/lib/xgpio_intr.o microblaze_0/lib/xgpio_selftest.o microblaze_0/lib/xgpio_sinit.o microblaze_0/lib/xil
+TRACE::2024-10-23.19:58:50::SCWMssOS::_assert.o microblaze_0/lib/xil_cache.o microblaze_0/lib/xil_clocking.o microblaze_0/lib/xil_exception.o microblaze_0/lib/xil_me
+TRACE::2024-10-23.19:58:50::SCWMssOS::m.o microblaze_0/lib/xil_misc_psreset_api.o microblaze_0/lib/xil_printf.o microblaze_0/lib/xil_sleepcommon.o microblaze_0/lib/x
+TRACE::2024-10-23.19:58:50::SCWMssOS::il_testcache.o microblaze_0/lib/xil_testio.o microblaze_0/lib/xil_testmem.o microblaze_0/lib/xil_util.o microblaze_0/lib/xintc.
+TRACE::2024-10-23.19:58:50::SCWMssOS::o microblaze_0/lib/xintc_g.o microblaze_0/lib/xintc_intr.o microblaze_0/lib/xintc_l.o microblaze_0/lib/xintc_options.o microbla
+TRACE::2024-10-23.19:58:50::SCWMssOS::ze_0/lib/xintc_selftest.o microblaze_0/lib/xinterrupt_wrap.o microblaze_0/lib/xio.o microblaze_0/lib/xplatform_info.o microblaz
+TRACE::2024-10-23.19:58:50::SCWMssOS::e_0/lib/xspi.o microblaze_0/lib/xspi_g.o microblaze_0/lib/xspi_options.o microblaze_0/lib/xspi_selftest.o microblaze_0/lib/xspi
+TRACE::2024-10-23.19:58:50::SCWMssOS::_sinit.o microblaze_0/lib/xspi_stats.o microblaze_0/lib/xtmrctr.o microblaze_0/lib/xtmrctr_g.o microblaze_0/lib/xtmrctr_intr.o 
+TRACE::2024-10-23.19:58:50::SCWMssOS::microblaze_0/lib/xtmrctr_l.o microblaze_0/lib/xtmrctr_options.o microblaze_0/lib/xtmrctr_selftest.o microblaze_0/lib/xtmrctr_si
+TRACE::2024-10-23.19:58:50::SCWMssOS::nit.o microblaze_0/lib/xtmrctr_stats.o microblaze_0/lib/xuartlite.o microblaze_0/lib/xuartlite_g.o microblaze_0/lib/xuartlite_i
+TRACE::2024-10-23.19:58:50::SCWMssOS::ntr.o microblaze_0/lib/xuartlite_l.o microblaze_0/lib/xuartlite_selftest.o microblaze_0/lib/xuartlite_sinit.o microblaze_0/lib/
+TRACE::2024-10-23.19:58:50::SCWMssOS::xuartlite_stats.o
+
+TRACE::2024-10-23.19:58:50::SCWMssOS::'Finished building libraries'
+
+TRACE::2024-10-23.19:58:51::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2024-10-23.19:58:51::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2024-10-23.19:58:51::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2024-10-23.19:58:51::SCWSystem::Completed Processing the sysconfig mb_usb_hdmi_top
+LOG::2024-10-23.19:58:51::SCWPlatform::Completed generating the artifacts for system configuration mb_usb_hdmi_top
+TRACE::2024-10-23.19:58:51::SCWPlatform::Started preparing the platform 
+TRACE::2024-10-23.19:58:51::SCWSystem::Writing the bif file for system config mb_usb_hdmi_top
+TRACE::2024-10-23.19:58:51::SCWSystem::dir created 
+TRACE::2024-10-23.19:58:51::SCWSystem::Writing the bif 
+TRACE::2024-10-23.19:58:51::SCWPlatform::Started writing the spfm file 
+TRACE::2024-10-23.19:58:51::SCWPlatform::Started writing the xpfm file 
+TRACE::2024-10-23.19:58:51::SCWPlatform::Completed generating the platform
+TRACE::2024-10-23.19:58:51::SCWMssOS::Saving the mss changes C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:58:51::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2024-10-23.19:58:51::SCWMssOS::Writing the mss file completed C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:58:51::SCWMssOS::Commit changes completed.
+TRACE::2024-10-23.19:58:51::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:51::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:51::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:51::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:58:51::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:58:51::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_5
+TRACE::2024-10-23.19:58:51::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_5
+TRACE::2024-10-23.19:58:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:58:51::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:58:51::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.19:58:51::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:58:51::SCWWriter::formatted JSON is {
+	"platformName":	"mb_usb_hdmi_top",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"mb_usb_hdmi_top",
+	"platHandOff":	"C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/mb_usb_hdmi_top.xsa",
+	"platIntHandOff":	"<platformDir>/hw/mb_usb_hdmi_top.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"mb_usb_hdmi_top",
+	"systems":	[{
+			"systemName":	"mb_usb_hdmi_top",
+			"systemDesc":	"mb_usb_hdmi_top",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"mb_usb_hdmi_top",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"304529987e879521ca977c68d163f362",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2024-10-23.19:58:51::SCWPlatform::updated the xpfm file.
+TRACE::2024-10-23.19:58:51::SCWPlatform::Trying to open the hw design at C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:51::SCWPlatform::DSA given C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:51::SCWPlatform::DSA absoulate path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:51::SCWPlatform::DSA directory C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw
+TRACE::2024-10-23.19:58:51::SCWPlatform:: Platform Path C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/hw/mb_usb_hdmi_top.xsa
+TRACE::2024-10-23.19:58:51::SCWPlatform:: Unique name xilinx:::0.0
+TRACE::2024-10-23.19:58:51::SCWPlatform::Trying to set the existing hwdb with name mb_usb_hdmi_top_5
+TRACE::2024-10-23.19:58:51::SCWPlatform::Opened existing hwdb mb_usb_hdmi_top_5
+TRACE::2024-10-23.19:58:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2024-10-23.19:58:51::SCWMssOS::Checking the sw design at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2024-10-23.19:58:51::SCWMssOS::DEBUG:  swdes dump  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2024-10-23.19:58:51::SCWMssOS::Sw design exists and opened at  C:/Users/austi/OneDrive/Desktop/385Labs/lab6/lab6/6_2_initial_setup_workspace/mb_usb_hdmi_top/microblaze_0/standalone_microblaze_0/bsp/system.mss

@@ -1,0 +1,80 @@
+timestamp=[2024-11-20 18:37:48], mode=WORKBENCH_START, duration=0:00:04.780, duration_ms=4780, data={}
+timestamp=[2024-11-20 18:37:49], mode=WORKBENCH_UI_INIT, duration=0:00:00.376, duration_ms=376, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2024-11-20 18:37:49], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.072, duration_ms=72, data={}
+timestamp=[2024-11-20 18:38:17], mode=APP_CREATION, duration=0:00:04.556, duration_ms=4556, data={name=flap, project_type=sdk, os=standalone, processor=microblaze, runtime=cpp, platform=flappy_bird, application_type=application}
+timestamp=[2024-11-20 18:40:03], mode=PLATFORM_GENERATION, duration=0:00:02.960, duration_ms=2960, data={name=flappy_bird}
+timestamp=[2024-11-20 18:40:08], mode=PLATFORM_GENERATION, duration=0:00:05.157, duration_ms=5157, data={name=flappy_bird}
+timestamp=[2024-11-20 18:40:10], mode=BUILD, duration=0:00:02.255, duration_ms=2255, data={name=flap, configuration=Debug, clean_build=false}
+timestamp=[2024-11-20 18:40:11], mode=BUILD, duration=0:00:00.132, duration_ms=132, data={name=flap_system, configuration=Debug, clean_build=false}
+timestamp=[2024-11-20 18:47:38], mode=BUILD, duration=0:00:00.242, duration_ms=242, data={name=flap, configuration=Debug, clean_build=true}
+timestamp=[2024-11-20 18:47:39], mode=BUILD, duration=0:00:00.121, duration_ms=121, data={name=flap_system, configuration=Debug, clean_build=true}
+timestamp=[2024-11-20 18:47:42], mode=PLATFORM_GENERATION, duration=0:00:03.179, duration_ms=3179, data={name=flappy_bird}
+timestamp=[2024-11-20 18:47:48], mode=PLATFORM_GENERATION, duration=0:00:06.531, duration_ms=6531, data={name=flappy_bird}
+timestamp=[2024-11-20 18:47:51], mode=BUILD, duration=0:00:02.184, duration_ms=2184, data={name=flap, configuration=Debug, clean_build=false}
+timestamp=[2024-11-20 18:47:51], mode=BUILD, duration=0:00:00.110, duration_ms=110, data={name=flap_system, configuration=Debug, clean_build=false}
+timestamp=[2024-11-20 18:58:25], mode=BUILD, duration=0:00:00.182, duration_ms=182, data={name=flap, configuration=Debug, clean_build=true}
+timestamp=[2024-11-20 18:58:25], mode=BUILD, duration=0:00:00.119, duration_ms=119, data={name=flap_system, configuration=Debug, clean_build=true}
+timestamp=[2024-11-20 18:58:28], mode=PLATFORM_GENERATION, duration=0:00:03.115, duration_ms=3115, data={name=flappy_bird}
+timestamp=[2024-11-20 18:58:35], mode=PLATFORM_GENERATION, duration=0:00:06.289, duration_ms=6289, data={name=flappy_bird}
+timestamp=[2024-11-20 18:58:37], mode=BUILD, duration=0:00:02.059, duration_ms=2059, data={name=flap, configuration=Debug, clean_build=false}
+timestamp=[2024-11-20 18:58:37], mode=BUILD, duration=0:00:00.118, duration_ms=118, data={name=flap_system, configuration=Debug, clean_build=false}
+timestamp=[2024-11-20 19:05:20], mode=BUILD, duration=0:00:00.187, duration_ms=187, data={name=flap, configuration=Debug, clean_build=true}
+timestamp=[2024-11-20 19:05:20], mode=BUILD, duration=0:00:00.121, duration_ms=121, data={name=flap_system, configuration=Debug, clean_build=true}
+timestamp=[2024-11-20 19:05:23], mode=PLATFORM_GENERATION, duration=0:00:03.108, duration_ms=3108, data={name=flappy_bird}
+timestamp=[2024-11-20 19:05:29], mode=PLATFORM_GENERATION, duration=0:00:06.132, duration_ms=6132, data={name=flappy_bird}
+timestamp=[2024-11-20 19:05:32], mode=BUILD, duration=0:00:02.123, duration_ms=2123, data={name=flap, configuration=Debug, clean_build=false}
+timestamp=[2024-11-20 19:05:32], mode=BUILD, duration=0:00:00.119, duration_ms=119, data={name=flap_system, configuration=Debug, clean_build=false}
+timestamp=[2024-11-20 19:10:47], mode=BUILD, duration=0:00:00.188, duration_ms=188, data={name=flap, configuration=Debug, clean_build=true}
+timestamp=[2024-11-20 19:10:47], mode=BUILD, duration=0:00:00.120, duration_ms=120, data={name=flap_system, configuration=Debug, clean_build=true}
+timestamp=[2024-11-20 19:10:50], mode=PLATFORM_GENERATION, duration=0:00:03.123, duration_ms=3123, data={name=flappy_bird}
+timestamp=[2024-11-20 19:10:56], mode=PLATFORM_GENERATION, duration=0:00:06.149, duration_ms=6149, data={name=flappy_bird}
+timestamp=[2024-11-20 19:10:58], mode=BUILD, duration=0:00:01.806, duration_ms=1806, data={name=flap, configuration=Debug, clean_build=false}
+timestamp=[2024-11-20 19:10:59], mode=BUILD, duration=0:00:00.119, duration_ms=119, data={name=flap_system, configuration=Debug, clean_build=false}
+timestamp=[2024-11-20 19:16:25], mode=BUILD, duration=0:00:00.240, duration_ms=240, data={name=flap, configuration=Debug, clean_build=true}
+timestamp=[2024-11-20 19:16:26], mode=BUILD, duration=0:00:00.120, duration_ms=120, data={name=flap_system, configuration=Debug, clean_build=true}
+timestamp=[2024-11-20 19:16:29], mode=PLATFORM_GENERATION, duration=0:00:03.118, duration_ms=3118, data={name=flappy_bird}
+timestamp=[2024-11-20 19:16:35], mode=PLATFORM_GENERATION, duration=0:00:06.162, duration_ms=6162, data={name=flappy_bird}
+timestamp=[2024-11-20 19:16:37], mode=BUILD, duration=0:00:01.743, duration_ms=1743, data={name=flap, configuration=Debug, clean_build=false}
+timestamp=[2024-11-20 19:16:37], mode=BUILD, duration=0:00:00.117, duration_ms=117, data={name=flap_system, configuration=Debug, clean_build=false}
+timestamp=[2024-11-20 19:30:43], mode=BUILD, duration=0:00:00.173, duration_ms=173, data={name=flap, configuration=Debug, clean_build=true}
+timestamp=[2024-11-20 19:30:43], mode=BUILD, duration=0:00:00.169, duration_ms=169, data={name=flap_system, configuration=Debug, clean_build=true}
+timestamp=[2024-11-20 19:30:46], mode=PLATFORM_GENERATION, duration=0:00:03.114, duration_ms=3114, data={name=flappy_bird}
+timestamp=[2024-11-20 19:30:52], mode=PLATFORM_GENERATION, duration=0:00:06.083, duration_ms=6083, data={name=flappy_bird}
+timestamp=[2024-11-20 19:30:54], mode=BUILD, duration=0:00:01.624, duration_ms=1624, data={name=flap, configuration=Debug, clean_build=false}
+timestamp=[2024-11-20 19:30:54], mode=BUILD, duration=0:00:00.114, duration_ms=114, data={name=flap_system, configuration=Debug, clean_build=false}
+timestamp=[2024-11-20 19:36:22], mode=BUILD, duration=0:00:00.175, duration_ms=175, data={name=flap, configuration=Debug, clean_build=true}
+timestamp=[2024-11-20 19:36:22], mode=BUILD, duration=0:00:00.108, duration_ms=108, data={name=flap_system, configuration=Debug, clean_build=true}
+timestamp=[2024-11-20 19:36:25], mode=PLATFORM_GENERATION, duration=0:00:03.057, duration_ms=3057, data={name=flappy_bird}
+timestamp=[2024-11-20 19:36:31], mode=PLATFORM_GENERATION, duration=0:00:06.136, duration_ms=6136, data={name=flappy_bird}
+timestamp=[2024-11-20 19:36:33], mode=BUILD, duration=0:00:01.608, duration_ms=1608, data={name=flap, configuration=Debug, clean_build=false}
+timestamp=[2024-11-20 19:36:34], mode=BUILD, duration=0:00:00.113, duration_ms=113, data={name=flap_system, configuration=Debug, clean_build=false}
+timestamp=[2024-11-20 19:41:23], mode=BUILD, duration=0:00:00.174, duration_ms=174, data={name=flap, configuration=Debug, clean_build=true}
+timestamp=[2024-11-20 19:41:23], mode=BUILD, duration=0:00:00.167, duration_ms=167, data={name=flap_system, configuration=Debug, clean_build=true}
+timestamp=[2024-11-20 19:41:26], mode=PLATFORM_GENERATION, duration=0:00:03.055, duration_ms=3055, data={name=flappy_bird}
+timestamp=[2024-11-20 19:41:32], mode=PLATFORM_GENERATION, duration=0:00:06.151, duration_ms=6151, data={name=flappy_bird}
+timestamp=[2024-11-20 19:41:34], mode=BUILD, duration=0:00:01.612, duration_ms=1612, data={name=flap, configuration=Debug, clean_build=false}
+timestamp=[2024-11-20 19:41:35], mode=BUILD, duration=0:00:00.112, duration_ms=112, data={name=flap_system, configuration=Debug, clean_build=false}
+timestamp=[2024-11-20 19:54:28], mode=BUILD, duration=0:00:00.172, duration_ms=172, data={name=flap, configuration=Debug, clean_build=true}
+timestamp=[2024-11-20 19:54:28], mode=BUILD, duration=0:00:00.120, duration_ms=120, data={name=flap_system, configuration=Debug, clean_build=true}
+timestamp=[2024-11-20 19:54:32], mode=PLATFORM_GENERATION, duration=0:00:03.113, duration_ms=3113, data={name=flappy_bird}
+timestamp=[2024-11-20 19:54:38], mode=PLATFORM_GENERATION, duration=0:00:06.189, duration_ms=6189, data={name=flappy_bird}
+timestamp=[2024-11-20 19:54:40], mode=BUILD, duration=0:00:02.045, duration_ms=2045, data={name=flap, configuration=Debug, clean_build=false}
+timestamp=[2024-11-20 19:54:41], mode=BUILD, duration=0:00:00.112, duration_ms=112, data={name=flap_system, configuration=Debug, clean_build=false}
+timestamp=[2024-11-20 20:02:25], mode=BUILD, duration=0:00:00.182, duration_ms=182, data={name=flap, configuration=Debug, clean_build=true}
+timestamp=[2024-11-20 20:02:25], mode=BUILD, duration=0:00:00.169, duration_ms=169, data={name=flap_system, configuration=Debug, clean_build=true}
+timestamp=[2024-11-20 20:02:28], mode=PLATFORM_GENERATION, duration=0:00:03.111, duration_ms=3111, data={name=flappy_bird}
+timestamp=[2024-11-20 20:02:34], mode=PLATFORM_GENERATION, duration=0:00:06.272, duration_ms=6272, data={name=flappy_bird}
+timestamp=[2024-11-20 20:02:36], mode=BUILD, duration=0:00:01.609, duration_ms=1609, data={name=flap, configuration=Debug, clean_build=false}
+timestamp=[2024-11-20 20:02:37], mode=BUILD, duration=0:00:00.119, duration_ms=119, data={name=flap_system, configuration=Debug, clean_build=false}
+timestamp=[2024-11-22 13:59:54], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.181, duration_ms=181, data={}
+timestamp=[2024-11-22 13:59:55], mode=WORKBENCH_START, duration=0:00:14.973, duration_ms=14973, data={}
+timestamp=[2024-11-22 13:59:57], mode=WORKBENCH_UI_INIT, duration=0:00:01.586, duration_ms=1586, data={editors_count=2, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,flap,flap_system,flappy_bird}
+timestamp=[2024-11-29 15:16:31], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.108, duration_ms=108, data={}
+timestamp=[2024-11-29 15:16:32], mode=WORKBENCH_START, duration=0:00:08.737, duration_ms=8737, data={}
+timestamp=[2024-11-29 15:16:33], mode=WORKBENCH_UI_INIT, duration=0:00:00.637, duration_ms=637, data={editors_count=2, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,flap,flap_system,flappy_bird}
+timestamp=[2024-11-29 15:51:20], mode=BUILD, duration=0:00:00.718, duration_ms=718, data={name=flap, configuration=Debug, clean_build=true}
+timestamp=[2024-11-29 15:51:21], mode=BUILD, duration=0:00:00.203, duration_ms=203, data={name=flap_system, configuration=Debug, clean_build=true}
+timestamp=[2024-11-29 15:51:24], mode=PLATFORM_GENERATION, duration=0:00:03.666, duration_ms=3666, data={name=flappy_bird}
+timestamp=[2024-11-29 15:51:32], mode=PLATFORM_GENERATION, duration=0:00:07.537, duration_ms=7537, data={name=flappy_bird}
+timestamp=[2024-11-29 15:51:35], mode=BUILD, duration=0:00:02.308, duration_ms=2308, data={name=flap, configuration=Debug, clean_build=false}
+timestamp=[2024-11-29 15:51:35], mode=BUILD, duration=0:00:00.115, duration_ms=115, data={name=flap_system, configuration=Debug, clean_build=false}
